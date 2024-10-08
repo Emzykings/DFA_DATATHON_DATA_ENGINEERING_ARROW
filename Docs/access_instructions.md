@@ -36,7 +36,7 @@ finally:
 '''
 
 
-#2. Accessing Aiven Cloud PostgreSQL via PGAdmin
+2. Accessing Aiven Cloud PostgreSQL via PGAdmin
 PGAdmin needs to connect to your Aiven PostgreSQL instance using the provided credentials.
 
 Add a New Server:
@@ -53,7 +53,7 @@ Go to the SSL tab and set SSL Mode to require.
 Save the connection, and you should be able to browse the database schema and run queries using PGAdmin.
 
 
-#3. Accessing Aiven Cloud PostgreSQL via Power BI
+3. Accessing Aiven Cloud PostgreSQL via Power BI
 Steps to Connect Aiven PostgreSQL to Power BI:
 Open Power BI Desktop.
 Connect to PostgreSQL:

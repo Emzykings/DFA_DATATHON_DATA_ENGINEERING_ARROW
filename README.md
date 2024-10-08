@@ -1,5 +1,5 @@
-#Improving  Academic Outcome For Oginigba Comprehensive Secondary School
-##Table of Contents
+Improving  Academic Outcome For Oginigba Comprehensive Secondary School
+Table of Contents
 - [Project Overview]
 - [Technologies Used]
 - [Project Structure]
