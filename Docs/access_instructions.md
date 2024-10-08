@@ -1,11 +1,3 @@
-OGC Sec. School Data Base Credentials
-user="avnadmin",              
-password="AVNS_blUS8t5v_YlvF0J_omz",         
-host="pg-353bb115-adeitanemmanuel086-380.h.aivencloud.com",            
-port="26014",                  
-database="defaultdb",    
-sslmode="require"
-
 1. Accessing  Aiven Cloud PostgreSQL via Python
 !pip install psycopg2
 import psycopg2
