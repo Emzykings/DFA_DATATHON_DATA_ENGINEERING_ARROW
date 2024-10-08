@@ -5,12 +5,12 @@ import psycopg2
 try:
     # Replace these details with your Aiven credentials
     connection = psycopg2.connect(
-        user="*****",              # Aiven provided username
-        password="*******",  # Aiven provided password
-        host="*******",  # Aiven hostname 
-        port="********",                 # Aiven port 
-        database="*********",          # Aiven database name
-        sslmode="**********"              # SSL mode required by Aiven
+        user="avnadmin",              # Aiven provided username
+        password="AVNS_blUS8t5v_YlvF0J_omz",  # Aiven provided password
+        host="pg-353bb115-adeitanemmanuel086-380.h.aivencloud.com",  # Aiven hostname 
+        port="26014",                 # Aiven port 
+        database="defaultdb",          # Aiven database name
+        sslmode="require"              # SSL mode required by Aiven
     )
     cursor = connection.cursor()
     print("Connected to Aiven PostgreSQL")

@@ -1,3 +1,11 @@
+OGC Sec. School Data Base Credentials
+user="avnadmin",              
+password="AVNS_blUS8t5v_YlvF0J_omz",         
+host="pg-353bb115-adeitanemmanuel086-380.h.aivencloud.com",            
+port="26014",                  
+database="defaultdb",    
+sslmode="require"
+
 1. Accessing  Aiven Cloud PostgreSQL via Python
 !pip install psycopg2
 import psycopg2
@@ -5,11 +13,11 @@ import psycopg2
 try:
     # Replace these with your actual Aiven credentials
     connection = psycopg2.connect(
-        user="aiven_username",
-        password="aiven_password",
-        host="aiven_hostname",  
-        port="aiven_port",      
-        database="aiven_database_name",
+        user="your_aiven_username",
+        password="your_aiven_password",
+        host="your_aiven_hostname",  # e.g., pg-12345.aivencloud.com
+        port="your_aiven_port",      # e.g., 21061
+        database="your_aiven_database_name",
         sslmode="require"
     )
     
@@ -36,9 +44,9 @@ Add a New Server:
 Open PGAdmin and right-click on "Servers" in the Object Browser and select "Create" > "Server".
 Enter Connection Details:
 Name: Give it a name like "Aiven PostgreSQL".
-Host: Use the hostname from Aiven.
-Port: The port from Aiven.
-Maintenance DB: Aiven database_name.
+Host: Use the hostname from Aiven, e.g., pg-12345.aivencloud.com.
+Port: The port from Aiven, e.g., 21061.
+Maintenance DB: Your Aiven database_name.
 Username: The Aiven username.
 Password: The Aiven password.
 SSL Configuration:
