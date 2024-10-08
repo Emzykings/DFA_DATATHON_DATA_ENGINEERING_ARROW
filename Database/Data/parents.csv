@@ -1,0 +1,501 @@
+parent_id	student_id	parent_name	gender	email	familyIncomeRange	numberOfChildren	occupation	houseOwnership	educationLevel	maritalStatus	location	age	workHoursPerWeek	employmentStatus	transportationMode	internetAccess	qualification	phone_number
+parent#1	OGB/2024/0	Doyin Uba	Female	doyinuba@gmail.com	#70, 001 - #120,000	1	Self Employed	Owned	High School	Widowed	Rural	older	34	Part-time	Trekking	FALSE	Diploma	2.34314E+12
+parent#2	OGB/2024/1	Adebisi Ojo	Female	adebisiojo@gmail.com	#70, 001 - #120,000	0	Self Employed	Rent	Bachelor's Degree	Widowed	Urban	25-34	1	Full-time	Bus	FALSE	Masters	2.3452E+12
+parent#3	OGB/2024/2	Ifeanyichukwu Obi	Male	ifeanyichukwuobi@gmail.com	<#30,000	3	Employed	Rent	Master's Degree	Divorced	Rural	25-34	3	Freelance	Trekking	FALSE	PhD	2.34388E+12
+parent#4	OGB/2024/3	Uche Chukwuma	Male	uchechukwuma@gmail.com	#30,001 - #70,000	1	Unemployed	Owned	Associate Degree	Married	Urban	55-64	19	Full-time	Trekking	TRUE	Masters	2.34117E+12
+parent#5	OGB/2024/4	Tobi Balogun	Female	tobibalogun@gmail.com	#120, 001 - #200,000	2	Employed	Owned	Associate Degree	Divorced	Suburban	35-44	24	Full-time	Bus	TRUE	None	2.34529E+12
+parent#6	OGB/2024/5	Chinwe Okeke	Female	chinweokeke@gmail.com	#30,001 - #70,000	0	Self Employed	Rent	Master's Degree	Divorced	Urban	35-44	12	Full-time	Trekking	FALSE	Masters	2.3442E+12
+parent#7	OGB/2024/6	Damilola Akinyemi	Female	damilolaakinyemi@gmail.com	#120, 001 - #200,000	3	Self Employed	Owned	High School	Widowed	Suburban	55-64	22	Part-time	Bike	FALSE	PhD	2.34414E+12
+parent#8	OGB/2024/7	Nnamdi Abubakar	Female	nnamdiabubakar@gmail.com	#70, 001 - #120,000	5	Employed	Rent	High School	Divorced	Rural	35-44	34	Full-time	Car	TRUE	Masters	2.34823E+12
+parent#9	OGB/2024/8	Tobi Olaniyi	Female	tobiolaniyi@gmail.com	<#30,000	4	Self Employed	Owned	Bachelor's Degree	Divorced	Rural	35-44	3	Freelance	Bike	TRUE	None	2.34623E+12
+parent#10	OGB/2024/9	Bimbo Ajibola	Male	bimboajibola@gmail.com	#120, 001 - #200,000	3	Self Employed	Owned	Associate Degree	Married	Rural	55-64	52	Freelance	Trekking	FALSE	PhD	2.34512E+12
+parent#11	OGB/2024/10	Yemi Adesina	Male	yemiadesina@gmail.com	#70, 001 - #120,000	2	Self Employed	Owned	Associate Degree	Divorced	Suburban	35-44	52	Part-time	Bike	FALSE	None	2.34347E+12
+parent#12	OGB/2024/11	Kelechi Ajayi	Male	kelechiajayi@gmail.com	>#200,001	2	Employed	Owned	High School	Single	Rural	55-64	43	Full-time	Bus	TRUE	Diploma	2.3438E+12
+parent#13	OGB/2024/12	Kanyinsola Uba	Male	kanyinsolauba@gmail.com	<#30,000	0	Unemployed	Rent	PhD	Divorced	Rural	55-64	55	Freelance	Trekking	FALSE	Bachelors	2.34408E+12
+parent#14	OGB/2024/13	Chika Adesina	Male	chikaadesina@gmail.com	#120, 001 - #200,000	4	Self Employed	Rent	Master's Degree	Divorced	Suburban	older	27	Freelance	Bike	TRUE	Bachelors	2.34535E+12
+parent#15	OGB/2024/14	Yemi Ogundipe	Male	yemiogundipe@gmail.com	#30,001 - #70,000	0	Self Employed	Rent	Bachelor's Degree	Widowed	Rural	35-44	47	Freelance	Bus	FALSE	Bachelors	2.34575E+12
+parent#16	OGB/2024/15	Ada Abiola	Female	adaabiola@gmail.com	#120, 001 - #200,000	2	Self Employed	Rent	High School	Married	Urban	35-44	32	Part-time	Bus	TRUE	Bachelors	2.34618E+12
+parent#17	OGB/2024/16	Nkechi Nwosu	Female	nkechinwosu@gmail.com	>#200,001	3	Unemployed	Rent	High School	Widowed	Urban	45-54	33	Freelance	Bike	TRUE	Bachelors	2.34162E+12
+parent#18	OGB/2024/17	Zainab Nduka	Female	zainabnduka@gmail.com	<#30,000	1	Unemployed	Rent	PhD	Divorced	Urban	25-34	54	Part-time	Car	TRUE	Masters	2.34437E+12
+parent#19	OGB/2024/18	Chika Obinna	Male	chikaobinna@gmail.com	<#30,000	1	Self Employed	Rent	Master's Degree	Divorced	Rural	35-44	11	Freelance	Car	TRUE	None	2.34903E+12
+parent#20	OGB/2024/19	Zainab Hassan	Female	zainabhassan@gmail.com	#30,001 - #70,000	3	Self Employed	Rent	PhD	Married	Rural	45-54	32	Full-time	Car	FALSE	Diploma	2.34706E+12
+parent#21	OGB/2024/20	Nkechi Ezeani	Female	nkechiezeani@gmail.com	#30,001 - #70,000	4	Unemployed	Rent	Associate Degree	Married	Rural	35-44	23	Full-time	Bike	FALSE	Diploma	2.34822E+12
+parent#22	OGB/2024/21	Temiloluwa Ojo	Male	temiloluwaojo@gmail.com	#120, 001 - #200,000	3	Employed	Owned	High School	Divorced	Suburban	55-64	43	Freelance	Trekking	FALSE	Bachelors	2.34373E+12
+parent#23	OGB/2024/22	Sadiq Ogunbiyi	Male	sadiqogunbiyi@gmail.com	>#200,001	4	Self Employed	Owned	Bachelor's Degree	Married	Suburban	25-34	44	Full-time	Bike	FALSE	Masters	2.34618E+12
+parent#24	OGB/2024/23	Funke Suleiman	Male	funkesuleiman@gmail.com	#30,001 - #70,000	2	Unemployed	Rent	PhD	Widowed	Suburban	older	2	Part-time	Bus	FALSE	Bachelors	2.34252E+12
+parent#25	OGB/2024/24	Ekene Ogunleye	Male	ekeneogunleye@gmail.com	>#200,001	0	Employed	Rent	Associate Degree	Single	Rural	35-44	58	Full-time	Bike	FALSE	Bachelors	2.34384E+12
+parent#26	OGB/2024/25	Kehinde Nwosu	Male	kehindenwosu@gmail.com	#120, 001 - #200,000	3	Self Employed	Rent	Bachelor's Degree	Single	Urban	35-44	13	Full-time	Trekking	FALSE	Diploma	2.3474E+12
+parent#27	OGB/2024/26	Chukwuemeka Adeola	Female	chukwuemekaadeola@gmail.com	#30,001 - #70,000	2	Unemployed	Owned	High School	Married	Urban	55-64	6	Full-time	Car	FALSE	Masters	2.34937E+12
+parent#28	OGB/2024/27	Opeyemi Obinna	Male	opeyemiobinna@gmail.com	#70, 001 - #120,000	2	Employed	Owned	Associate Degree	Married	Suburban	35-44	29	Part-time	Trekking	FALSE	Bachelors	2.34288E+12
+parent#29	OGB/2024/28	Opeyemi Ajayi	Male	opeyemiajayi@gmail.com	#30,001 - #70,000	0	Employed	Rent	Bachelor's Degree	Single	Suburban	45-54	60	Part-time	Bike	FALSE	Masters	2.34208E+12
+parent#30	OGB/2024/29	Kanyinsola Nwosu	Female	kanyinsolanwosu@gmail.com	#30,001 - #70,000	0	Employed	Owned	Bachelor's Degree	Single	Urban	45-54	11	Part-time	Trekking	FALSE	PhD	2.34716E+12
+parent#31	OGB/2024/30	Duru Ojo	Male	duruojo@gmail.com	>#200,001	5	Employed	Rent	Master's Degree	Widowed	Suburban	25-34	57	Part-time	Bus	FALSE	PhD	2.34168E+12
+parent#32	OGB/2024/31	Nkechi Ogundipe	Female	nkechiogundipe@gmail.com	<#30,000	3	Self Employed	Rent	PhD	Widowed	Suburban	25-34	14	Full-time	Bike	TRUE	PhD	2.34458E+12
+parent#33	OGB/2024/32	Ekene Fadeyi	Male	ekenefadeyi@gmail.com	#70, 001 - #120,000	5	Unemployed	Owned	Bachelor's Degree	Divorced	Suburban	older	45	Full-time	Car	FALSE	None	2.34851E+12
+parent#34	OGB/2024/33	Oluwaseun Hassan	Male	oluwaseunhassan@gmail.com	#70, 001 - #120,000	3	Self Employed	Rent	Bachelor's Degree	Divorced	Urban	45-54	20	Freelance	Bike	FALSE	Bachelors	2.34755E+12
+parent#35	OGB/2024/34	Fola Johnson	Male	folajohnson@gmail.com	<#30,000	1	Unemployed	Rent	PhD	Widowed	Rural	older	4	Freelance	Bike	TRUE	Bachelors	2.34617E+12
+parent#36	OGB/2024/35	Aderonke Onyekachi	Male	aderonkeonyekachi@gmail.com	#70, 001 - #120,000	2	Self Employed	Owned	Master's Degree	Single	Rural	25-34	45	Part-time	Car	FALSE	Masters	2.34223E+12
+parent#37	OGB/2024/36	Ijeoma Kalu	Male	ijeomakalu@gmail.com	#70, 001 - #120,000	1	Employed	Rent	Bachelor's Degree	Widowed	Suburban	older	13	Part-time	Car	FALSE	PhD	2.34651E+12
+parent#38	OGB/2024/37	Adebisi Ogunleye	Female	adebisiogunleye@gmail.com	>#200,001	3	Self Employed	Rent	PhD	Married	Suburban	55-64	31	Freelance	Bus	TRUE	PhD	2.34606E+12
+parent#39	OGB/2024/38	Yemi Awojobi	Female	yemiawojobi@gmail.com	<#30,000	1	Self Employed	Rent	PhD	Married	Rural	35-44	13	Freelance	Trekking	FALSE	Bachelors	2.3443E+12
+parent#40	OGB/2024/39	Fisayo Aiyegbusi	Female	fisayoaiyegbusi@gmail.com	#120, 001 - #200,000	4	Unemployed	Rent	Associate Degree	Divorced	Rural	55-64	36	Full-time	Car	FALSE	Bachelors	2.34987E+12
+parent#41	OGB/2024/40	Nkechi Ajayi	Male	nkechiajayi@gmail.com	#120, 001 - #200,000	2	Unemployed	Owned	High School	Divorced	Urban	45-54	40	Part-time	Car	FALSE	None	2.34725E+12
+parent#42	OGB/2024/41	Amina Ezeani	Female	aminaezeani@gmail.com	#120, 001 - #200,000	4	Self Employed	Owned	PhD	Married	Urban	25-34	39	Full-time	Bus	FALSE	Bachelors	2.34626E+12
+parent#43	OGB/2024/42	Ayo Aiyegbusi	Male	ayoaiyegbusi@gmail.com	#120, 001 - #200,000	4	Employed	Owned	Associate Degree	Single	Urban	older	0	Part-time	Bus	TRUE	Bachelors	2.34901E+12
+parent#44	OGB/2024/43	Olamide Onyekachi	Female	olamideonyekachi@gmail.com	#70, 001 - #120,000	3	Employed	Rent	High School	Married	Rural	older	2	Freelance	Car	FALSE	None	2.3489E+12
+parent#45	OGB/2024/44	Chinyere Nduka	Female	chinyerenduka@gmail.com	#70, 001 - #120,000	4	Unemployed	Owned	Associate Degree	Widowed	Suburban	55-64	59	Freelance	Bus	FALSE	Bachelors	2.34943E+12
+parent#46	OGB/2024/45	Zainab Johnson	Female	zainabjohnson@gmail.com	>#200,001	3	Self Employed	Owned	Bachelor's Degree	Married	Suburban	35-44	24	Part-time	Bus	TRUE	Masters	2.34216E+12
+parent#47	OGB/2024/46	Funke Nwosu	Male	funkenwosu@gmail.com	#120, 001 - #200,000	0	Employed	Rent	Associate Degree	Divorced	Suburban	25-34	13	Part-time	Car	TRUE	Masters	2.34306E+12
+parent#48	OGB/2024/47	Oluwaseun Hassan	Male	oluwaseunhassan@gmail.com	>#200,001	5	Employed	Rent	Bachelor's Degree	Divorced	Suburban	45-54	57	Full-time	Bike	FALSE	Diploma	2.34157E+12
+parent#49	OGB/2024/48	Kanyinsola Ibrahim	Female	kanyinsolaibrahim@gmail.com	#70, 001 - #120,000	0	Self Employed	Owned	PhD	Widowed	Urban	45-54	44	Part-time	Bike	FALSE	Diploma	2.34435E+12
+parent#50	OGB/2024/49	Ololade Obinna	Male	ololadeobinna@gmail.com	<#30,000	5	Employed	Owned	High School	Widowed	Rural	25-34	7	Full-time	Bike	TRUE	Bachelors	2.34807E+12
+parent#51	OGB/2024/50	Doyin Olatunde	Female	doyinolatunde@gmail.com	#30,001 - #70,000	1	Unemployed	Owned	Associate Degree	Married	Urban	55-64	59	Full-time	Car	FALSE	PhD	2.34265E+12
+parent#52	OGB/2024/51	Temiloluwa Akanbi	Male	temiloluwaakanbi@gmail.com	#120, 001 - #200,000	0	Unemployed	Owned	PhD	Single	Rural	45-54	18	Full-time	Trekking	FALSE	None	2.34162E+12
+parent#53	OGB/2024/52	Jumoke Okwudili	Female	jumokeokwudili@gmail.com	#120, 001 - #200,000	1	Employed	Owned	PhD	Divorced	Suburban	25-34	0	Freelance	Bike	FALSE	PhD	2.34572E+12
+parent#54	OGB/2024/53	Adebisi Ajibola	Male	adebisiajibola@gmail.com	#70, 001 - #120,000	0	Unemployed	Owned	Master's Degree	Married	Urban	55-64	57	Part-time	Car	FALSE	None	2.34273E+12
+parent#55	OGB/2024/54	Fisayo Nduka	Male	fisayonduka@gmail.com	#30,001 - #70,000	0	Self Employed	Owned	Bachelor's Degree	Widowed	Rural	55-64	15	Freelance	Trekking	FALSE	None	2.34986E+12
+parent#56	OGB/2024/55	Chinonso Eze	Female	chinonsoeze@gmail.com	>#200,001	0	Employed	Rent	PhD	Married	Suburban	older	42	Part-time	Trekking	TRUE	Bachelors	2.34146E+12
+parent#57	OGB/2024/56	Chidera Dada	Female	chideradada@gmail.com	>#200,001	4	Employed	Rent	PhD	Single	Urban	35-44	52	Full-time	Car	TRUE	None	2.34916E+12
+parent#58	OGB/2024/57	Opeyemi Obi	Male	opeyemiobi@gmail.com	#30,001 - #70,000	2	Employed	Owned	PhD	Divorced	Rural	55-64	58	Full-time	Trekking	FALSE	PhD	2.34496E+12
+parent#59	OGB/2024/58	Temitope Nwosu	Female	temitopenwosu@gmail.com	>#200,001	1	Self Employed	Rent	Bachelor's Degree	Divorced	Suburban	45-54	53	Freelance	Trekking	TRUE	Masters	2.34799E+12
+parent#60	OGB/2024/59	Nneka Abiola	Male	nnekaabiola@gmail.com	#120, 001 - #200,000	0	Self Employed	Owned	PhD	Single	Rural	35-44	21	Full-time	Bus	FALSE	Bachelors	2.34101E+12
+parent#61	OGB/2024/60	Ada Akanbi	Female	adaakanbi@gmail.com	#120, 001 - #200,000	4	Employed	Rent	Master's Degree	Married	Suburban	older	11	Freelance	Car	FALSE	Diploma	2.34512E+12
+parent#62	OGB/2024/61	Doyin Chukwuma	Female	doyinchukwuma@gmail.com	#70, 001 - #120,000	0	Unemployed	Rent	Associate Degree	Divorced	Suburban	25-34	24	Part-time	Bus	TRUE	None	2.34767E+12
+parent#63	OGB/2024/62	Obiageli Okafor	Male	obiageliokafor@gmail.com	#120, 001 - #200,000	2	Self Employed	Rent	Associate Degree	Widowed	Rural	25-34	52	Part-time	Trekking	FALSE	PhD	2.34773E+12
+parent#64	OGB/2024/63	Bola Awojobi	Female	bolaawojobi@gmail.com	#70, 001 - #120,000	1	Employed	Rent	High School	Single	Suburban	older	14	Freelance	Bus	TRUE	Masters	2.3453E+12
+parent#65	OGB/2024/64	Kelechi Ojo	Male	kelechiojo@gmail.com	>#200,001	4	Self Employed	Owned	Associate Degree	Widowed	Rural	older	23	Full-time	Car	TRUE	None	2.34183E+12
+parent#66	OGB/2024/65	Ngozi Ibrahim	Female	ngoziibrahim@gmail.com	<#30,000	5	Self Employed	Owned	Associate Degree	Divorced	Urban	45-54	58	Part-time	Bike	FALSE	Bachelors	2.34858E+12
+parent#67	OGB/2024/66	Temitope Ajayi	Male	temitopeajayi@gmail.com	<#30,000	5	Unemployed	Rent	High School	Single	Rural	35-44	53	Freelance	Bus	TRUE	Diploma	2.34875E+12
+parent#68	OGB/2024/67	Kelechi Ibrahim	Female	kelechiibrahim@gmail.com	<#30,000	3	Employed	Owned	PhD	Divorced	Urban	55-64	25	Part-time	Bus	TRUE	None	2.34352E+12
+parent#69	OGB/2024/68	Zainab Balogun	Female	zainabbalogun@gmail.com	<#30,000	3	Self Employed	Rent	Associate Degree	Married	Rural	55-64	2	Full-time	Car	FALSE	Masters	2.348E+12
+parent#70	OGB/2024/69	Aderonke Okwudili	Male	aderonkeokwudili@gmail.com	<#30,000	3	Self Employed	Rent	Associate Degree	Widowed	Urban	55-64	9	Freelance	Car	TRUE	PhD	2.34253E+12
+parent#71	OGB/2024/70	Ololade Abiola	Female	ololadeabiola@gmail.com	>#200,001	0	Self Employed	Owned	Associate Degree	Single	Rural	25-34	9	Freelance	Car	FALSE	Bachelors	2.34693E+12
+parent#72	OGB/2024/71	Yemi Ogunleye	Male	yemiogunleye@gmail.com	#120, 001 - #200,000	1	Employed	Rent	Master's Degree	Divorced	Urban	25-34	38	Part-time	Bus	FALSE	Diploma	2.34368E+12
+parent#73	OGB/2024/72	Amina Okwudili	Female	aminaokwudili@gmail.com	<#30,000	5	Employed	Rent	High School	Divorced	Rural	45-54	15	Full-time	Trekking	TRUE	PhD	2.34482E+12
+parent#74	OGB/2024/73	Kehinde Eze	Male	kehindeeze@gmail.com	#120, 001 - #200,000	more than 5	Unemployed	Rent	Bachelor's Degree	Married	Urban	45-54	39	Part-time	Car	FALSE	Masters	2.34239E+12
+parent#75	OGB/2024/74	Chinwe Hassan	Female	chinwehassan@gmail.com	>#200,001	5	Employed	Owned	High School	Widowed	Rural	45-54	42	Part-time	Car	FALSE	Diploma	2.34898E+12
+parent#76	OGB/2024/75	Nnamdi Nwosu	Male	nnamdinwosu@gmail.com	>#200,001	2	Employed	Rent	High School	Single	Urban	older	16	Full-time	Bus	FALSE	Diploma	2.34683E+12
+parent#77	OGB/2024/76	Bola Suleiman	Male	bolasuleiman@gmail.com	<#30,000	3	Employed	Rent	Associate Degree	Married	Rural	45-54	56	Freelance	Bus	FALSE	PhD	2.34426E+12
+parent#78	OGB/2024/77	Bimbo Dada	Male	bimbodada@gmail.com	#120, 001 - #200,000	1	Employed	Owned	PhD	Widowed	Suburban	55-64	59	Part-time	Bus	FALSE	None	2.34758E+12
+parent#79	OGB/2024/78	Bukola Aiyegbusi	Female	bukolaaiyegbusi@gmail.com	>#200,001	1	Employed	Owned	Master's Degree	Single	Rural	45-54	27	Freelance	Bus	TRUE	PhD	2.34312E+12
+parent#80	OGB/2024/79	Doyin Obi	Male	doyinobi@gmail.com	>#200,001	more than 5	Self Employed	Owned	Master's Degree	Divorced	Rural	45-54	43	Full-time	Bike	FALSE	PhD	2.34342E+12
+parent#81	OGB/2024/80	Fisayo Aiyegbusi	Female	fisayoaiyegbusi@gmail.com	<#30,000	1	Unemployed	Owned	Master's Degree	Divorced	Urban	25-34	36	Part-time	Bike	TRUE	Diploma	2.34396E+12
+parent#82	OGB/2024/81	Ifeanyichukwu Abubakar	Male	ifeanyichukwuabubakar@gmail.com	#70, 001 - #120,000	2	Employed	Rent	Bachelor's Degree	Widowed	Urban	25-34	45	Part-time	Trekking	FALSE	Diploma	2.34485E+12
+parent#83	OGB/2024/82	Bola Nwankwo	Female	bolanwankwo@gmail.com	#120, 001 - #200,000	5	Self Employed	Owned	Bachelor's Degree	Divorced	Rural	25-34	55	Full-time	Trekking	TRUE	Masters	2.34629E+12
+parent#84	OGB/2024/83	Ugo Aiyegbusi	Male	ugoaiyegbusi@gmail.com	#30,001 - #70,000	2	Employed	Rent	PhD	Married	Suburban	55-64	57	Full-time	Car	FALSE	PhD	2.34472E+12
+parent#85	OGB/2024/84	Funke Eze	Male	funkeeze@gmail.com	#30,001 - #70,000	5	Employed	Owned	High School	Single	Suburban	35-44	40	Freelance	Bike	FALSE	PhD	2.34618E+12
+parent#86	OGB/2024/85	Nkemdilim Obadiah	Female	nkemdilimobadiah@gmail.com	#120, 001 - #200,000	4	Self Employed	Rent	Associate Degree	Single	Suburban	older	19	Full-time	Trekking	TRUE	Masters	2.34131E+12
+parent#87	OGB/2024/86	Oluwaseun Obadiah	Male	oluwaseunobadiah@gmail.com	>#200,001	2	Employed	Owned	PhD	Married	Suburban	55-64	13	Freelance	Car	TRUE	Masters	2.34158E+12
+parent#88	OGB/2024/87	Kanyinsola Fadeyi	Male	kanyinsolafadeyi@gmail.com	#120, 001 - #200,000	5	Employed	Rent	Master's Degree	Divorced	Rural	35-44	60	Part-time	Trekking	TRUE	Diploma	2.34417E+12
+parent#89	OGB/2024/88	Ugo Ibrahim	Male	ugoibrahim@gmail.com	<#30,000	0	Self Employed	Owned	Master's Degree	Single	Urban	older	56	Part-time	Car	FALSE	Masters	2.34623E+12
+parent#90	OGB/2024/89	Obiageli Ibrahim	Male	obiageliibrahim@gmail.com	#30,001 - #70,000	0	Unemployed	Owned	Master's Degree	Married	Rural	55-64	41	Part-time	Car	FALSE	Masters	2.34142E+12
+parent#91	OGB/2024/90	Ijeoma Adeyemi	Female	ijeomaadeyemi@gmail.com	#120, 001 - #200,000	1	Unemployed	Rent	Master's Degree	Divorced	Suburban	45-54	47	Part-time	Bus	FALSE	Bachelors	2.3421E+12
+parent#92	OGB/2024/91	Yemi Ogunleye	Male	yemiogunleye@gmail.com	<#30,000	4	Unemployed	Rent	Bachelor's Degree	Widowed	Urban	25-34	58	Part-time	Car	FALSE	Bachelors	2.34276E+12
+parent#93	OGB/2024/92	Obinna Nwodo	Female	obinnanwodo@gmail.com	#70, 001 - #120,000	5	Employed	Owned	Bachelor's Degree	Widowed	Urban	55-64	17	Full-time	Bus	FALSE	Bachelors	2.34955E+12
+parent#94	OGB/2024/93	Ekene Ibrahim	Female	ekeneibrahim@gmail.com	#120, 001 - #200,000	4	Unemployed	Owned	PhD	Divorced	Rural	older	26	Part-time	Bus	TRUE	None	2.34912E+12
+parent#95	OGB/2024/94	Bola Abiola	Male	bolaabiola@gmail.com	#120, 001 - #200,000	3	Unemployed	Owned	Bachelor's Degree	Widowed	Rural	older	44	Freelance	Trekking	FALSE	Bachelors	2.34484E+12
+parent#96	OGB/2024/95	Opeyemi Idowu	Male	opeyemiidowu@gmail.com	#120, 001 - #200,000	5	Unemployed	Rent	PhD	Widowed	Suburban	older	0	Freelance	Car	TRUE	Masters	2.3457E+12
+parent#97	OGB/2024/96	Chika Abiola	Male	chikaabiola@gmail.com	<#30,000	2	Employed	Owned	High School	Married	Suburban	55-64	26	Part-time	Bike	FALSE	Bachelors	2.34497E+12
+parent#98	OGB/2024/97	Chukwuemeka Okafor	Male	chukwuemekaokafor@gmail.com	#70, 001 - #120,000	more than 5	Unemployed	Rent	PhD	Divorced	Rural	older	52	Freelance	Car	FALSE	Diploma	2.34363E+12
+parent#99	OGB/2024/98	Chinwe Hassan	Female	chinwehassan@gmail.com	#30,001 - #70,000	5	Self Employed	Owned	Associate Degree	Divorced	Rural	older	26	Full-time	Bike	TRUE	Masters	2.34204E+12
+parent#100	OGB/2024/99	Damilola Johnson	Female	damilolajohnson@gmail.com	>#200,001	1	Employed	Owned	Associate Degree	Divorced	Rural	55-64	24	Part-time	Bus	FALSE	Masters	2.34413E+12
+parent#101	OGB/2024/100	Chukwuemeka Ogunleye	Male	chukwuemekaogunleye@gmail.com	#70, 001 - #120,000	1	Self Employed	Rent	Bachelor's Degree	Divorced	Suburban	25-34	17	Freelance	Trekking	FALSE	Bachelors	2.34526E+12
+parent#102	OGB/2024/101	Ifeanyichukwu Nduka	Male	ifeanyichukwunduka@gmail.com	#70, 001 - #120,000	2	Self Employed	Owned	Associate Degree	Widowed	Urban	older	53	Full-time	Bus	FALSE	PhD	2.34871E+12
+parent#103	OGB/2024/102	Bimbo Adesina	Male	bimboadesina@gmail.com	#70, 001 - #120,000	5	Unemployed	Owned	Master's Degree	Single	Suburban	25-34	57	Full-time	Bus	FALSE	PhD	2.34911E+12
+parent#104	OGB/2024/103	Olamide Obadiah	Male	olamideobadiah@gmail.com	#70, 001 - #120,000	0	Employed	Rent	PhD	Widowed	Rural	older	12	Freelance	Car	TRUE	PhD	2.34143E+12
+parent#105	OGB/2024/104	Damilola Chukwuma	Male	damilolachukwuma@gmail.com	#120, 001 - #200,000	1	Unemployed	Rent	Master's Degree	Widowed	Suburban	25-34	52	Full-time	Bike	TRUE	None	2.34777E+12
+parent#106	OGB/2024/105	Chinwe Adebayo	Male	chinweadebayo@gmail.com	#30,001 - #70,000	1	Unemployed	Rent	Master's Degree	Single	Urban	older	49	Freelance	Bike	TRUE	Masters	2.3453E+12
+parent#107	OGB/2024/106	Damilola Obinna	Male	damilolaobinna@gmail.com	<#30,000	2	Unemployed	Owned	Bachelor's Degree	Single	Rural	25-34	31	Freelance	Bike	TRUE	Diploma	2.34829E+12
+parent#108	OGB/2024/107	Uche Ogundipe	Female	ucheogundipe@gmail.com	#120, 001 - #200,000	3	Employed	Rent	High School	Widowed	Suburban	25-34	16	Full-time	Trekking	FALSE	Diploma	2.34931E+12
+parent#109	OGB/2024/108	Kehinde Akinyemi	Male	kehindeakinyemi@gmail.com	<#30,000	1	Self Employed	Owned	PhD	Divorced	Urban	35-44	38	Part-time	Bus	TRUE	Diploma	2.34853E+12
+parent#110	OGB/2024/109	Bukola Tajudeen	Male	bukolatajudeen@gmail.com	<#30,000	0	Self Employed	Owned	Master's Degree	Widowed	Urban	45-54	0	Part-time	Bus	TRUE	Bachelors	2.34171E+12
+parent#111	OGB/2024/110	Damilola Obi	Male	damilolaobi@gmail.com	<#30,000	5	Unemployed	Owned	Bachelor's Degree	Married	Urban	older	40	Full-time	Bike	TRUE	None	2.34417E+12
+parent#112	OGB/2024/111	Ayo Balogun	Male	ayobalogun@gmail.com	#30,001 - #70,000	3	Unemployed	Owned	Associate Degree	Married	Suburban	older	44	Part-time	Bike	FALSE	None	2.34346E+12
+parent#113	OGB/2024/112	Aderonke Abiola	Female	aderonkeabiola@gmail.com	#70, 001 - #120,000	3	Employed	Rent	High School	Widowed	Suburban	55-64	25	Part-time	Bus	TRUE	PhD	2.34816E+12
+parent#114	OGB/2024/113	Amina Ojo	Male	aminaojo@gmail.com	>#200,001	2	Self Employed	Rent	Bachelor's Degree	Divorced	Urban	55-64	2	Part-time	Bike	FALSE	Masters	2.34183E+12
+parent#115	OGB/2024/114	Damilola Adeyemi	Male	damilolaadeyemi@gmail.com	>#200,001	0	Unemployed	Owned	Master's Degree	Married	Suburban	25-34	44	Full-time	Bike	TRUE	Diploma	2.34453E+12
+parent#116	OGB/2024/115	Ololade Adesina	Male	ololadeadesina@gmail.com	#70, 001 - #120,000	1	Unemployed	Owned	Bachelor's Degree	Single	Urban	45-54	49	Freelance	Trekking	TRUE	Bachelors	2.34978E+12
+parent#117	OGB/2024/116	Ijeoma Onyekachi	Female	ijeomaonyekachi@gmail.com	#70, 001 - #120,000	2	Employed	Rent	Master's Degree	Divorced	Rural	55-64	28	Freelance	Car	FALSE	PhD	2.34177E+12
+parent#118	OGB/2024/117	Adebisi Nwodo	Female	adebisinwodo@gmail.com	#30,001 - #70,000	0	Unemployed	Owned	Associate Degree	Divorced	Rural	55-64	8	Part-time	Bike	TRUE	Masters	2.34455E+12
+parent#119	OGB/2024/118	Duru Obinna	Male	duruobinna@gmail.com	>#200,001	1	Self Employed	Rent	PhD	Divorced	Suburban	older	42	Freelance	Trekking	TRUE	Diploma	2.34185E+12
+parent#120	OGB/2024/119	Kanyinsola Ogunleye	Female	kanyinsolaogunleye@gmail.com	#120, 001 - #200,000	5	Self Employed	Rent	PhD	Divorced	Rural	older	44	Part-time	Car	TRUE	Masters	2.34656E+12
+parent#121	OGB/2024/120	Ada Ezeani	Female	adaezeani@gmail.com	#30,001 - #70,000	more than 5	Employed	Owned	Associate Degree	Widowed	Suburban	25-34	14	Part-time	Trekking	TRUE	PhD	2.34985E+12
+parent#122	OGB/2024/121	Obinna Uba	Female	obinnauba@gmail.com	>#200,001	more than 5	Employed	Rent	Master's Degree	Widowed	Rural	55-64	4	Part-time	Trekking	TRUE	Bachelors	2.34293E+12
+parent#123	OGB/2024/122	Doyin Adebayo	Male	doyinadebayo@gmail.com	#120, 001 - #200,000	0	Unemployed	Rent	Bachelor's Degree	Married	Rural	55-64	40	Freelance	Bus	FALSE	Bachelors	2.34366E+12
+parent#124	OGB/2024/123	Obiageli Tajudeen	Male	obiagelitajudeen@gmail.com	#30,001 - #70,000	4	Unemployed	Rent	Associate Degree	Single	Urban	25-34	7	Part-time	Bus	FALSE	Bachelors	2.34114E+12
+parent#125	OGB/2024/124	Kehinde Tajudeen	Male	kehindetajudeen@gmail.com	>#200,001	2	Self Employed	Owned	High School	Single	Rural	35-44	7	Part-time	Car	FALSE	PhD	2.34411E+12
+parent#126	OGB/2024/125	Temitope Ajibola	Female	temitopeajibola@gmail.com	#120, 001 - #200,000	3	Unemployed	Owned	Associate Degree	Divorced	Suburban	older	10	Freelance	Car	FALSE	Diploma	2.34856E+12
+parent#127	OGB/2024/126	Chidera Chukwuma	Male	chiderachukwuma@gmail.com	<#30,000	4	Employed	Owned	Master's Degree	Widowed	Rural	35-44	57	Part-time	Trekking	TRUE	Masters	2.34285E+12
+parent#128	OGB/2024/127	Duru Ojo	Male	duruojo@gmail.com	>#200,001	0	Self Employed	Rent	Bachelor's Degree	Widowed	Rural	25-34	50	Full-time	Car	TRUE	Diploma	2.34395E+12
+parent#129	OGB/2024/128	Obiageli Kalu	Male	obiagelikalu@gmail.com	#120, 001 - #200,000	3	Self Employed	Rent	PhD	Married	Urban	45-54	31	Part-time	Bus	TRUE	Diploma	2.34598E+12
+parent#130	OGB/2024/129	Doyin Nwankwo	Male	doyinnwankwo@gmail.com	#30,001 - #70,000	more than 5	Unemployed	Rent	Associate Degree	Divorced	Urban	25-34	4	Freelance	Bus	FALSE	Diploma	2.34262E+12
+parent#131	OGB/2024/130	Doyin Adesina	Female	doyinadesina@gmail.com	#120, 001 - #200,000	1	Employed	Owned	High School	Widowed	Urban	45-54	11	Part-time	Bike	FALSE	PhD	2.34603E+12
+parent#132	OGB/2024/131	Jumoke Ajibola	Male	jumokeajibola@gmail.com	#30,001 - #70,000	3	Employed	Rent	PhD	Single	Urban	55-64	34	Freelance	Bus	TRUE	Diploma	2.34974E+12
+parent#133	OGB/2024/132	Fola Ajayi	Female	folaajayi@gmail.com	#120, 001 - #200,000	0	Employed	Rent	Bachelor's Degree	Widowed	Suburban	25-34	20	Full-time	Bike	TRUE	Masters	2.34281E+12
+parent#134	OGB/2024/133	Sadiq Okwudili	Male	sadiqokwudili@gmail.com	#70, 001 - #120,000	0	Unemployed	Rent	Bachelor's Degree	Single	Urban	55-64	10	Part-time	Bike	TRUE	PhD	2.34168E+12
+parent#135	OGB/2024/134	Chinonso Ezeani	Male	chinonsoezeani@gmail.com	>#200,001	more than 5	Unemployed	Rent	High School	Widowed	Urban	45-54	60	Part-time	Trekking	FALSE	Diploma	2.34131E+12
+parent#136	OGB/2024/135	Ada Ojo	Male	adaojo@gmail.com	#30,001 - #70,000	0	Self Employed	Owned	Bachelor's Degree	Married	Urban	45-54	47	Part-time	Car	TRUE	PhD	2.34278E+12
+parent#137	OGB/2024/136	Ihuoma Kalu	Male	ihuomakalu@gmail.com	#120, 001 - #200,000	4	Self Employed	Owned	Bachelor's Degree	Married	Rural	45-54	16	Full-time	Bus	TRUE	None	2.34287E+12
+parent#138	OGB/2024/137	Tunde Ojo	Male	tundeojo@gmail.com	#30,001 - #70,000	5	Self Employed	Owned	PhD	Widowed	Rural	45-54	43	Part-time	Bike	FALSE	Masters	2.34601E+12
+parent#139	OGB/2024/138	Ololade Abubakar	Female	ololadeabubakar@gmail.com	<#30,000	2	Employed	Rent	High School	Single	Urban	35-44	45	Freelance	Bus	TRUE	Bachelors	2.34295E+12
+parent#140	OGB/2024/139	Ada Okafor	Female	adaokafor@gmail.com	#30,001 - #70,000	more than 5	Self Employed	Owned	PhD	Single	Urban	45-54	59	Full-time	Car	TRUE	Masters	2.34722E+12
+parent#141	OGB/2024/140	Bola Suleiman	Male	bolasuleiman@gmail.com	>#200,001	1	Unemployed	Rent	Bachelor's Degree	Married	Rural	55-64	44	Freelance	Bike	TRUE	PhD	2.34721E+12
+parent#142	OGB/2024/141	Obinna Ojo	Female	obinnaojo@gmail.com	<#30,000	4	Unemployed	Owned	High School	Divorced	Suburban	25-34	25	Part-time	Car	TRUE	Diploma	2.34665E+12
+parent#143	OGB/2024/142	Fola Onyekachi	Female	folaonyekachi@gmail.com	>#200,001	4	Employed	Rent	Bachelor's Degree	Single	Urban	45-54	18	Freelance	Bus	FALSE	Bachelors	2.3436E+12
+parent#144	OGB/2024/143	Jumoke Onyekachi	Male	jumokeonyekachi@gmail.com	#120, 001 - #200,000	1	Unemployed	Owned	Master's Degree	Single	Suburban	55-64	34	Full-time	Bus	FALSE	Diploma	2.34459E+12
+parent#145	OGB/2024/144	Ololade Ogundipe	Female	ololadeogundipe@gmail.com	#70, 001 - #120,000	more than 5	Self Employed	Owned	Master's Degree	Widowed	Suburban	45-54	18	Full-time	Bike	TRUE	PhD	2.34614E+12
+parent#146	OGB/2024/145	Oluwaseun Akanbi	Male	oluwaseunakanbi@gmail.com	>#200,001	1	Employed	Rent	High School	Widowed	Urban	35-44	18	Full-time	Bus	TRUE	Masters	2.34656E+12
+parent#147	OGB/2024/146	Bukola Kalu	Female	bukolakalu@gmail.com	#30,001 - #70,000	more than 5	Unemployed	Rent	Bachelor's Degree	Divorced	Rural	35-44	54	Full-time	Trekking	TRUE	Bachelors	2.3435E+12
+parent#148	OGB/2024/147	Ololade Adeola	Male	ololadeadeola@gmail.com	#70, 001 - #120,000	0	Unemployed	Rent	Bachelor's Degree	Single	Urban	older	36	Full-time	Trekking	FALSE	Masters	2.34123E+12
+parent#149	OGB/2024/148	Ngozi Akinyemi	Male	ngoziakinyemi@gmail.com	#30,001 - #70,000	0	Employed	Owned	High School	Widowed	Urban	older	16	Full-time	Bike	TRUE	Masters	2.34468E+12
+parent#150	OGB/2024/149	Opeyemi Adeola	Male	opeyemiadeola@gmail.com	<#30,000	2	Unemployed	Owned	PhD	Divorced	Suburban	45-54	6	Full-time	Trekking	TRUE	None	2.3477E+12
+parent#151	OGB/2024/150	Ekene Adeyemi	Male	ekeneadeyemi@gmail.com	<#30,000	more than 5	Employed	Owned	High School	Divorced	Urban	55-64	48	Part-time	Trekking	FALSE	None	2.34451E+12
+parent#152	OGB/2024/151	Doyin Hassan	Female	doyinhassan@gmail.com	<#30,000	5	Employed	Owned	Master's Degree	Divorced	Suburban	45-54	7	Full-time	Bus	TRUE	Diploma	2.34982E+12
+parent#153	OGB/2024/152	Fisayo Aiyegbusi	Female	fisayoaiyegbusi@gmail.com	#120, 001 - #200,000	2	Unemployed	Owned	PhD	Married	Suburban	35-44	25	Full-time	Trekking	TRUE	PhD	2.34476E+12
+parent#154	OGB/2024/153	Olufemi Tajudeen	Male	olufemitajudeen@gmail.com	<#30,000	3	Unemployed	Owned	Master's Degree	Divorced	Urban	55-64	52	Freelance	Trekking	TRUE	Masters	2.34443E+12
+parent#155	OGB/2024/154	Fisayo Okeke	Female	fisayookeke@gmail.com	>#200,001	3	Unemployed	Owned	Master's Degree	Widowed	Urban	25-34	56	Full-time	Bike	FALSE	Masters	2.34981E+12
+parent#156	OGB/2024/155	Nkemdilim Abiola	Male	nkemdilimabiola@gmail.com	#30,001 - #70,000	5	Unemployed	Rent	Associate Degree	Single	Suburban	45-54	56	Full-time	Bus	TRUE	Diploma	2.34132E+12
+parent#157	OGB/2024/156	Ayo Awojobi	Female	ayoawojobi@gmail.com	<#30,000	2	Unemployed	Rent	Master's Degree	Widowed	Urban	45-54	12	Full-time	Car	TRUE	Bachelors	2.34565E+12
+parent#158	OGB/2024/157	Doyin Tajudeen	Male	doyintajudeen@gmail.com	>#200,001	4	Self Employed	Rent	PhD	Widowed	Urban	older	60	Full-time	Car	TRUE	Bachelors	2.3457E+12
+parent#159	OGB/2024/158	Chinyere Chukwuma	Male	chinyerechukwuma@gmail.com	>#200,001	2	Self Employed	Rent	High School	Widowed	Suburban	older	5	Freelance	Car	FALSE	PhD	2.34642E+12
+parent#160	OGB/2024/159	Ekene Ogunyemi	Male	ekeneogunyemi@gmail.com	<#30,000	5	Employed	Rent	High School	Divorced	Urban	35-44	35	Full-time	Car	FALSE	PhD	2.34336E+12
+parent#161	OGB/2024/160	Chika Tajudeen	Male	chikatajudeen@gmail.com	>#200,001	3	Employed	Owned	Bachelor's Degree	Widowed	Suburban	45-54	54	Freelance	Car	FALSE	None	2.34456E+12
+parent#162	OGB/2024/161	Funke Tajudeen	Female	funketajudeen@gmail.com	#120, 001 - #200,000	2	Unemployed	Owned	High School	Single	Urban	45-54	31	Part-time	Car	FALSE	PhD	2.34548E+12
+parent#163	OGB/2024/162	Uche Awojobi	Female	ucheawojobi@gmail.com	<#30,000	2	Self Employed	Owned	PhD	Single	Suburban	25-34	12	Freelance	Bike	TRUE	PhD	2.3446E+12
+parent#164	OGB/2024/163	Nnamdi Obadiah	Male	nnamdiobadiah@gmail.com	#30,001 - #70,000	3	Unemployed	Owned	Associate Degree	Widowed	Rural	25-34	8	Full-time	Car	TRUE	Bachelors	2.34439E+12
+parent#165	OGB/2024/164	Temitope Onyekachi	Female	temitopeonyekachi@gmail.com	#120, 001 - #200,000	0	Employed	Owned	Associate Degree	Divorced	Rural	55-64	33	Full-time	Bike	TRUE	Bachelors	2.34997E+12
+parent#166	OGB/2024/165	Obiageli Kalu	Male	obiagelikalu@gmail.com	#70, 001 - #120,000	more than 5	Employed	Rent	Associate Degree	Married	Urban	45-54	2	Freelance	Trekking	TRUE	Diploma	2.3429E+12
+parent#167	OGB/2024/166	Oluwaseun Adebayo	Female	oluwaseunadebayo@gmail.com	#30,001 - #70,000	2	Employed	Owned	High School	Divorced	Suburban	older	30	Freelance	Trekking	FALSE	None	2.34993E+12
+parent#168	OGB/2024/167	Amina Ogundipe	Female	aminaogundipe@gmail.com	#30,001 - #70,000	2	Employed	Rent	Master's Degree	Widowed	Urban	55-64	30	Part-time	Bus	FALSE	Masters	2.34856E+12
+parent#169	OGB/2024/168	Obinna Ogunbiyi	Female	obinnaogunbiyi@gmail.com	#30,001 - #70,000	5	Employed	Rent	High School	Single	Suburban	35-44	6	Freelance	Car	FALSE	Masters	2.34298E+12
+parent#170	OGB/2024/169	Duru Abiola	Male	duruabiola@gmail.com	#70, 001 - #120,000	2	Self Employed	Owned	High School	Married	Suburban	55-64	7	Part-time	Car	TRUE	Masters	2.34822E+12
+parent#171	OGB/2024/170	Zainab Aiyegbusi	Female	zainabaiyegbusi@gmail.com	#30,001 - #70,000	4	Unemployed	Owned	Master's Degree	Widowed	Suburban	35-44	14	Freelance	Bike	FALSE	PhD	2.34245E+12
+parent#172	OGB/2024/171	Ayo Akanbi	Female	ayoakanbi@gmail.com	>#200,001	more than 5	Unemployed	Owned	High School	Widowed	Urban	45-54	2	Full-time	Bus	FALSE	None	2.34113E+12
+parent#173	OGB/2024/172	Nnamdi Akanbi	Female	nnamdiakanbi@gmail.com	#30,001 - #70,000	5	Employed	Rent	Bachelor's Degree	Widowed	Urban	55-64	53	Freelance	Bus	TRUE	PhD	2.34239E+12
+parent#174	OGB/2024/173	Sadiq Ogunyemi	Female	sadiqogunyemi@gmail.com	#120, 001 - #200,000	more than 5	Self Employed	Owned	High School	Widowed	Suburban	45-54	24	Full-time	Trekking	FALSE	None	2.34352E+12
+parent#175	OGB/2024/174	Tobi Suleiman	Male	tobisuleiman@gmail.com	#70, 001 - #120,000	more than 5	Employed	Owned	PhD	Single	Rural	45-54	11	Full-time	Bike	TRUE	Diploma	2.34994E+12
+parent#176	OGB/2024/175	Doyin Ezeani	Male	doyinezeani@gmail.com	<#30,000	more than 5	Self Employed	Owned	Bachelor's Degree	Married	Urban	55-64	5	Freelance	Car	FALSE	None	2.34611E+12
+parent#177	OGB/2024/176	Bukola Tajudeen	Male	bukolatajudeen@gmail.com	#70, 001 - #120,000	4	Self Employed	Owned	Associate Degree	Single	Urban	45-54	48	Full-time	Bike	FALSE	None	2.34572E+12
+parent#178	OGB/2024/177	Jumoke Dada	Male	jumokedada@gmail.com	<#30,000	3	Employed	Owned	PhD	Single	Urban	35-44	44	Full-time	Trekking	FALSE	None	2.3426E+12
+parent#179	OGB/2024/178	Bimbo Chukwuma	Female	bimbochukwuma@gmail.com	#30,001 - #70,000	0	Employed	Rent	High School	Married	Rural	35-44	51	Freelance	Car	FALSE	None	2.3436E+12
+parent#180	OGB/2024/179	Sadiq Dada	Male	sadiqdada@gmail.com	<#30,000	2	Unemployed	Rent	Bachelor's Degree	Widowed	Rural	45-54	4	Full-time	Bike	TRUE	Masters	2.34409E+12
+parent#181	OGB/2024/180	Ijeoma Olatunde	Female	ijeomaolatunde@gmail.com	>#200,001	5	Unemployed	Rent	Bachelor's Degree	Married	Rural	25-34	15	Full-time	Car	FALSE	Diploma	2.34954E+12
+parent#182	OGB/2024/181	Chukwuemeka Olatunde	Female	chukwuemekaolatunde@gmail.com	<#30,000	4	Self Employed	Rent	Associate Degree	Divorced	Rural	25-34	27	Full-time	Car	FALSE	Bachelors	2.34664E+12
+parent#183	OGB/2024/182	Chidera Abiola	Female	chideraabiola@gmail.com	<#30,000	5	Self Employed	Owned	PhD	Single	Urban	35-44	39	Freelance	Bike	FALSE	Diploma	2.34389E+12
+parent#184	OGB/2024/183	Ijeoma Obi	Male	ijeomaobi@gmail.com	#120, 001 - #200,000	5	Employed	Owned	Bachelor's Degree	Single	Urban	older	23	Full-time	Bus	TRUE	None	2.34655E+12
+parent#185	OGB/2024/184	Nneka Uba	Male	nnekauba@gmail.com	>#200,001	0	Self Employed	Owned	PhD	Widowed	Urban	45-54	28	Full-time	Bike	FALSE	None	2.34168E+12
+parent#186	OGB/2024/185	Ifeoma Onyekachi	Female	ifeomaonyekachi@gmail.com	<#30,000	1	Unemployed	Rent	High School	Married	Urban	older	47	Part-time	Trekking	TRUE	PhD	2.34761E+12
+parent#187	OGB/2024/186	Ada Akinyemi	Female	adaakinyemi@gmail.com	<#30,000	3	Employed	Owned	Master's Degree	Divorced	Suburban	older	9	Freelance	Bus	TRUE	None	2.34653E+12
+parent#188	OGB/2024/187	Ololade Ogunyemi	Male	ololadeogunyemi@gmail.com	#30,001 - #70,000	more than 5	Unemployed	Owned	Master's Degree	Married	Rural	45-54	28	Full-time	Car	FALSE	Diploma	2.3443E+12
+parent#189	OGB/2024/188	Chinwe Kalu	Male	chinwekalu@gmail.com	#70, 001 - #120,000	1	Unemployed	Rent	High School	Widowed	Rural	older	38	Full-time	Car	TRUE	Bachelors	2.34165E+12
+parent#190	OGB/2024/189	Aderonke Ogunyemi	Female	aderonkeogunyemi@gmail.com	#70, 001 - #120,000	5	Employed	Rent	High School	Single	Suburban	older	49	Full-time	Trekking	FALSE	PhD	2.34548E+12
+parent#191	OGB/2024/190	Chinonso Ojo	Male	chinonsoojo@gmail.com	#30,001 - #70,000	1	Self Employed	Owned	Associate Degree	Single	Rural	35-44	2	Freelance	Bus	TRUE	PhD	2.34692E+12
+parent#192	OGB/2024/191	Ifeoma Ajayi	Male	ifeomaajayi@gmail.com	<#30,000	2	Unemployed	Owned	PhD	Widowed	Suburban	55-64	42	Full-time	Car	TRUE	Bachelors	2.34976E+12
+parent#193	OGB/2024/192	Chukwuemeka Obi	Female	chukwuemekaobi@gmail.com	<#30,000	3	Unemployed	Owned	Associate Degree	Divorced	Suburban	older	59	Part-time	Car	FALSE	Diploma	2.34716E+12
+parent#194	OGB/2024/193	Ujunwa Suleiman	Female	ujunwasuleiman@gmail.com	#120, 001 - #200,000	0	Self Employed	Owned	Bachelor's Degree	Single	Urban	25-34	32	Part-time	Car	FALSE	None	2.34111E+12
+parent#195	OGB/2024/194	Obiageli Ogunleye	Female	obiageliogunleye@gmail.com	#70, 001 - #120,000	1	Unemployed	Rent	High School	Single	Urban	35-44	49	Freelance	Bus	FALSE	Bachelors	2.34357E+12
+parent#196	OGB/2024/195	Opeyemi Nwosu	Female	opeyeminwosu@gmail.com	#30,001 - #70,000	4	Unemployed	Rent	Associate Degree	Widowed	Urban	25-34	12	Freelance	Trekking	FALSE	Diploma	2.3496E+12
+parent#197	OGB/2024/196	Olufemi Uba	Female	olufemiuba@gmail.com	#120, 001 - #200,000	5	Employed	Owned	Master's Degree	Single	Rural	25-34	49	Full-time	Bike	TRUE	Diploma	2.34635E+12
+parent#198	OGB/2024/197	Ugo Eze	Female	ugoeze@gmail.com	<#30,000	5	Employed	Owned	High School	Divorced	Suburban	older	13	Part-time	Bike	FALSE	Diploma	2.34247E+12
+parent#199	OGB/2024/198	Ihuoma Nwankwo	Female	ihuomanwankwo@gmail.com	#120, 001 - #200,000	3	Self Employed	Rent	Bachelor's Degree	Single	Suburban	55-64	46	Full-time	Car	TRUE	None	2.34751E+12
+parent#200	OGB/2024/199	Duru Adeyemi	Female	duruadeyemi@gmail.com	<#30,000	2	Unemployed	Rent	PhD	Divorced	Suburban	45-54	20	Freelance	Trekking	FALSE	None	2.34328E+12
+parent#201	OGB/2024/200	Amina Okafor	Male	aminaokafor@gmail.com	#120, 001 - #200,000	1	Unemployed	Owned	Associate Degree	Married	Rural	35-44	2	Part-time	Car	FALSE	Masters	2.34704E+12
+parent#202	OGB/2024/201	Oluwaseun Ogunbiyi	Male	oluwaseunogunbiyi@gmail.com	<#30,000	5	Self Employed	Rent	PhD	Married	Urban	45-54	36	Freelance	Bus	TRUE	PhD	2.34342E+12
+parent#203	OGB/2024/202	Ada Ajayi	Female	adaajayi@gmail.com	#120, 001 - #200,000	0	Self Employed	Rent	Master's Degree	Single	Suburban	older	0	Freelance	Bus	TRUE	None	2.34631E+12
+parent#204	OGB/2024/203	Ihuoma Ogundipe	Female	ihuomaogundipe@gmail.com	<#30,000	1	Self Employed	Rent	Associate Degree	Widowed	Urban	45-54	60	Full-time	Car	TRUE	Masters	2.34668E+12
+parent#205	OGB/2024/204	Ugo Obadiah	Female	ugoobadiah@gmail.com	#30,001 - #70,000	3	Employed	Rent	High School	Widowed	Urban	55-64	9	Part-time	Trekking	FALSE	Diploma	2.34384E+12
+parent#206	OGB/2024/205	Tobi Ogunyemi	Female	tobiogunyemi@gmail.com	#120, 001 - #200,000	5	Self Employed	Rent	Bachelor's Degree	Single	Suburban	35-44	21	Part-time	Trekking	TRUE	PhD	2.34687E+12
+parent#207	OGB/2024/206	Chukwuemeka Adesina	Male	chukwuemekaadesina@gmail.com	#120, 001 - #200,000	0	Unemployed	Rent	Bachelor's Degree	Widowed	Suburban	55-64	55	Freelance	Car	FALSE	PhD	2.34453E+12
+parent#208	OGB/2024/207	Oluwaseun Obadiah	Female	oluwaseunobadiah@gmail.com	#70, 001 - #120,000	2	Unemployed	Rent	PhD	Single	Suburban	25-34	60	Freelance	Car	FALSE	Bachelors	2.34977E+12
+parent#209	OGB/2024/208	Nkechi Akanbi	Male	nkechiakanbi@gmail.com	#120, 001 - #200,000	5	Self Employed	Rent	Bachelor's Degree	Single	Urban	45-54	16	Freelance	Trekking	FALSE	Masters	2.34407E+12
+parent#210	OGB/2024/209	Ada Balogun	Female	adabalogun@gmail.com	#30,001 - #70,000	5	Unemployed	Owned	High School	Widowed	Suburban	older	58	Full-time	Trekking	FALSE	None	2.34798E+12
+parent#211	OGB/2024/210	Oluwaseun Okwudili	Male	oluwaseunokwudili@gmail.com	#30,001 - #70,000	4	Employed	Rent	Bachelor's Degree	Married	Suburban	older	11	Part-time	Trekking	TRUE	PhD	2.34552E+12
+parent#212	OGB/2024/211	Kehinde Ogunyemi	Male	kehindeogunyemi@gmail.com	#70, 001 - #120,000	3	Employed	Owned	Master's Degree	Divorced	Suburban	25-34	22	Full-time	Trekking	FALSE	Diploma	2.34189E+12
+parent#213	OGB/2024/212	Funke Idowu	Male	funkeidowu@gmail.com	<#30,000	4	Unemployed	Rent	PhD	Single	Urban	45-54	29	Freelance	Bus	FALSE	PhD	2.34769E+12
+parent#214	OGB/2024/213	Chinonso Akinyemi	Female	chinonsoakinyemi@gmail.com	#30,001 - #70,000	1	Employed	Owned	High School	Single	Suburban	35-44	12	Full-time	Car	FALSE	Bachelors	2.34795E+12
+parent#215	OGB/2024/214	Oluwaseun Johnson	Male	oluwaseunjohnson@gmail.com	>#200,001	2	Employed	Owned	PhD	Widowed	Rural	55-64	57	Full-time	Car	FALSE	None	2.34179E+12
+parent#216	OGB/2024/215	Ada Aiyegbusi	Male	adaaiyegbusi@gmail.com	>#200,001	5	Employed	Owned	Master's Degree	Married	Suburban	25-34	41	Full-time	Car	TRUE	Masters	2.34128E+12
+parent#217	OGB/2024/216	Nkechi Eze	Male	nkechieze@gmail.com	<#30,000	2	Self Employed	Rent	High School	Married	Urban	35-44	3	Full-time	Bike	FALSE	Bachelors	2.34698E+12
+parent#218	OGB/2024/217	Obinna Tajudeen	Female	obinnatajudeen@gmail.com	<#30,000	2	Self Employed	Owned	High School	Married	Rural	older	25	Part-time	Bike	FALSE	Masters	2.34532E+12
+parent#219	OGB/2024/218	Duru Okafor	Female	duruokafor@gmail.com	#70, 001 - #120,000	3	Employed	Owned	High School	Widowed	Urban	35-44	24	Full-time	Trekking	FALSE	Diploma	2.34937E+12
+parent#220	OGB/2024/219	Tunde Johnson	Male	tundejohnson@gmail.com	#70, 001 - #120,000	4	Unemployed	Rent	Associate Degree	Widowed	Rural	45-54	9	Freelance	Bus	TRUE	Masters	2.345E+12
+parent#221	OGB/2024/220	Damilola Akinyemi	Male	damilolaakinyemi@gmail.com	#120, 001 - #200,000	3	Employed	Rent	High School	Widowed	Rural	25-34	60	Freelance	Bike	FALSE	Diploma	2.34321E+12
+parent#222	OGB/2024/221	Ekene Dada	Male	ekenedada@gmail.com	>#200,001	2	Employed	Owned	Associate Degree	Married	Suburban	55-64	18	Full-time	Car	FALSE	Bachelors	2.34428E+12
+parent#223	OGB/2024/222	Obiageli Obadiah	Female	obiageliobadiah@gmail.com	>#200,001	2	Unemployed	Owned	Bachelor's Degree	Widowed	Suburban	35-44	32	Freelance	Bike	FALSE	Diploma	2.34557E+12
+parent#224	OGB/2024/223	Kelechi Ogunyemi	Female	kelechiogunyemi@gmail.com	>#200,001	1	Employed	Owned	PhD	Divorced	Urban	35-44	4	Full-time	Bus	FALSE	Bachelors	2.34215E+12
+parent#225	OGB/2024/224	Ifeanyichukwu Abiola	Male	ifeanyichukwuabiola@gmail.com	<#30,000	0	Self Employed	Owned	High School	Married	Suburban	35-44	14	Freelance	Bus	TRUE	Bachelors	2.34128E+12
+parent#226	OGB/2024/225	Sadiq Balogun	Female	sadiqbalogun@gmail.com	#30,001 - #70,000	4	Self Employed	Rent	Associate Degree	Married	Rural	35-44	11	Full-time	Trekking	TRUE	PhD	2.34829E+12
+parent#227	OGB/2024/226	Duru Ojo	Female	duruojo@gmail.com	>#200,001	4	Employed	Rent	High School	Widowed	Rural	55-64	40	Full-time	Car	TRUE	None	2.34843E+12
+parent#228	OGB/2024/227	Ada Akanbi	Male	adaakanbi@gmail.com	#70, 001 - #120,000	5	Unemployed	Owned	Associate Degree	Widowed	Suburban	35-44	12	Full-time	Car	TRUE	None	2.34705E+12
+parent#229	OGB/2024/228	Kelechi Okeke	Female	kelechiokeke@gmail.com	<#30,000	2	Unemployed	Rent	Bachelor's Degree	Married	Urban	35-44	21	Part-time	Trekking	TRUE	Diploma	2.34168E+12
+parent#230	OGB/2024/229	Bimbo Adeola	Male	bimboadeola@gmail.com	#30,001 - #70,000	more than 5	Self Employed	Owned	Master's Degree	Divorced	Urban	25-34	42	Full-time	Trekking	FALSE	Bachelors	2.34408E+12
+parent#231	OGB/2024/230	Ngozi Olatunde	Male	ngoziolatunde@gmail.com	>#200,001	4	Self Employed	Rent	High School	Widowed	Urban	45-54	46	Full-time	Bus	FALSE	None	2.34756E+12
+parent#232	OGB/2024/231	Nneka Nwankwo	Male	nnekanwankwo@gmail.com	<#30,000	0	Self Employed	Rent	Associate Degree	Married	Urban	35-44	28	Part-time	Car	TRUE	PhD	2.34192E+12
+parent#233	OGB/2024/232	Chika Olowu	Male	chikaolowu@gmail.com	>#200,001	3	Unemployed	Rent	Bachelor's Degree	Divorced	Rural	25-34	1	Freelance	Bike	TRUE	None	2.34864E+12
+parent#234	OGB/2024/233	Chidera Adeyemi	Male	chideraadeyemi@gmail.com	<#30,000	more than 5	Self Employed	Owned	Associate Degree	Widowed	Urban	older	55	Freelance	Bike	TRUE	Bachelors	2.34565E+12
+parent#235	OGB/2024/234	Chinonso Johnson	Male	chinonsojohnson@gmail.com	>#200,001	3	Unemployed	Rent	Associate Degree	Widowed	Urban	55-64	28	Part-time	Car	TRUE	Diploma	2.34475E+12
+parent#236	OGB/2024/235	Nnamdi Olatunde	Male	nnamdiolatunde@gmail.com	>#200,001	4	Unemployed	Owned	Bachelor's Degree	Widowed	Rural	55-64	4	Freelance	Bike	TRUE	None	2.34883E+12
+parent#237	OGB/2024/236	Chukwuemeka Johnson	Female	chukwuemekajohnson@gmail.com	#30,001 - #70,000	more than 5	Unemployed	Owned	High School	Married	Urban	55-64	53	Part-time	Trekking	TRUE	Masters	2.34267E+12
+parent#238	OGB/2024/237	Nnamdi Awojobi	Male	nnamdiawojobi@gmail.com	#30,001 - #70,000	more than 5	Employed	Owned	Master's Degree	Married	Urban	older	15	Freelance	Trekking	FALSE	None	2.34852E+12
+parent#239	OGB/2024/238	Obinna Nwankwo	Female	obinnanwankwo@gmail.com	#70, 001 - #120,000	2	Employed	Rent	Bachelor's Degree	Single	Rural	older	38	Freelance	Bus	TRUE	None	2.34855E+12
+parent#240	OGB/2024/239	Funke Nduka	Female	funkenduka@gmail.com	<#30,000	2	Self Employed	Owned	Associate Degree	Divorced	Suburban	older	33	Part-time	Bike	FALSE	PhD	2.34118E+12
+parent#241	OGB/2024/240	Jumoke Obadiah	Male	jumokeobadiah@gmail.com	#30,001 - #70,000	0	Employed	Rent	Bachelor's Degree	Married	Urban	35-44	18	Full-time	Bike	FALSE	Bachelors	2.3482E+12
+parent#242	OGB/2024/241	Kanyinsola Idowu	Male	kanyinsolaidowu@gmail.com	<#30,000	0	Unemployed	Owned	Associate Degree	Single	Urban	55-64	35	Part-time	Bus	TRUE	Masters	2.34393E+12
+parent#243	OGB/2024/242	Yemi Nwankwo	Male	yeminwankwo@gmail.com	#70, 001 - #120,000	3	Unemployed	Rent	PhD	Divorced	Rural	35-44	10	Part-time	Bike	FALSE	Diploma	2.34226E+12
+parent#244	OGB/2024/243	Nkechi Dada	Female	nkechidada@gmail.com	#30,001 - #70,000	5	Self Employed	Owned	Bachelor's Degree	Widowed	Urban	older	9	Part-time	Bike	TRUE	None	2.34969E+12
+parent#245	OGB/2024/244	Nkemdilim Obadiah	Male	nkemdilimobadiah@gmail.com	#30,001 - #70,000	1	Unemployed	Rent	Master's Degree	Divorced	Rural	older	35	Freelance	Trekking	FALSE	PhD	2.34566E+12
+parent#246	OGB/2024/245	Ngozi Akinyemi	Male	ngoziakinyemi@gmail.com	<#30,000	3	Employed	Rent	Associate Degree	Single	Rural	55-64	20	Full-time	Bus	FALSE	Masters	2.34692E+12
+parent#247	OGB/2024/246	Nkemdilim Okafor	Male	nkemdilimokafor@gmail.com	#30,001 - #70,000	5	Employed	Rent	Associate Degree	Single	Suburban	older	3	Freelance	Trekking	TRUE	None	2.34494E+12
+parent#248	OGB/2024/247	Ayo Olaniyi	Female	ayoolaniyi@gmail.com	#70, 001 - #120,000	1	Employed	Rent	Bachelor's Degree	Widowed	Suburban	55-64	7	Full-time	Bike	TRUE	Masters	2.34432E+12
+parent#249	OGB/2024/248	Temitope Olaniyi	Male	temitopeolaniyi@gmail.com	#70, 001 - #120,000	4	Unemployed	Rent	Associate Degree	Single	Rural	45-54	43	Freelance	Trekking	FALSE	Bachelors	2.34414E+12
+parent#250	OGB/2024/249	Oluwaseun Okwudili	Male	oluwaseunokwudili@gmail.com	#120, 001 - #200,000	2	Self Employed	Owned	Associate Degree	Divorced	Suburban	45-54	4	Freelance	Bike	FALSE	Diploma	2.34258E+12
+parent#251	OGB/2024/250	Ololade Ojo	Male	ololadeojo@gmail.com	#30,001 - #70,000	4	Unemployed	Rent	Bachelor's Degree	Married	Urban	45-54	26	Part-time	Bike	TRUE	Bachelors	2.34951E+12
+parent#252	OGB/2024/251	Obinna Ojo	Male	obinnaojo@gmail.com	<#30,000	4	Self Employed	Rent	Bachelor's Degree	Divorced	Suburban	55-64	33	Part-time	Bus	TRUE	PhD	2.34518E+12
+parent#253	OGB/2024/252	Ada Okeke	Male	adaokeke@gmail.com	#70, 001 - #120,000	5	Employed	Owned	Master's Degree	Married	Urban	45-54	34	Full-time	Trekking	TRUE	Masters	2.34985E+12
+parent#254	OGB/2024/253	Oluwaseun Akinyemi	Female	oluwaseunakinyemi@gmail.com	>#200,001	1	Employed	Owned	Bachelor's Degree	Widowed	Urban	45-54	1	Full-time	Trekking	TRUE	Diploma	2.34825E+12
+parent#255	OGB/2024/254	Bola Nwosu	Male	bolanwosu@gmail.com	#70, 001 - #120,000	2	Employed	Rent	High School	Widowed	Rural	35-44	39	Full-time	Bike	TRUE	Bachelors	2.34546E+12
+parent#256	OGB/2024/255	Tunde Ibrahim	Male	tundeibrahim@gmail.com	#120, 001 - #200,000	3	Unemployed	Owned	Master's Degree	Single	Urban	45-54	46	Full-time	Trekking	TRUE	Bachelors	2.34896E+12
+parent#257	OGB/2024/256	Sadiq Olaniyi	Female	sadiqolaniyi@gmail.com	#120, 001 - #200,000	2	Employed	Rent	Bachelor's Degree	Divorced	Rural	older	10	Part-time	Car	FALSE	Masters	2.34203E+12
+parent#258	OGB/2024/257	Tunde Ajibola	Male	tundeajibola@gmail.com	#120, 001 - #200,000	0	Self Employed	Owned	PhD	Divorced	Rural	45-54	46	Part-time	Bike	FALSE	PhD	2.34494E+12
+parent#259	OGB/2024/258	Ijeoma Kalu	Female	ijeomakalu@gmail.com	>#200,001	more than 5	Unemployed	Owned	Bachelor's Degree	Divorced	Urban	25-34	59	Freelance	Bus	FALSE	Masters	2.34252E+12
+parent#260	OGB/2024/259	Olufemi Obadiah	Female	olufemiobadiah@gmail.com	#120, 001 - #200,000	2	Self Employed	Rent	Bachelor's Degree	Widowed	Suburban	35-44	20	Full-time	Bike	TRUE	PhD	2.34404E+12
+parent#261	OGB/2024/260	Temitope Ogundipe	Female	temitopeogundipe@gmail.com	#30,001 - #70,000	0	Employed	Rent	PhD	Divorced	Urban	45-54	23	Freelance	Bike	TRUE	PhD	2.34144E+12
+parent#262	OGB/2024/261	Chinonso Onyekachi	Female	chinonsoonyekachi@gmail.com	#70, 001 - #120,000	3	Unemployed	Rent	Master's Degree	Widowed	Urban	35-44	2	Part-time	Trekking	TRUE	Diploma	2.35E+12
+parent#263	OGB/2024/262	Ifeanyichukwu Obi	Female	ifeanyichukwuobi@gmail.com	#30,001 - #70,000	0	Unemployed	Rent	Associate Degree	Divorced	Urban	older	9	Full-time	Trekking	TRUE	Masters	2.34787E+12
+parent#264	OGB/2024/263	Ololade Obi	Male	ololadeobi@gmail.com	#30,001 - #70,000	1	Unemployed	Rent	High School	Divorced	Suburban	older	57	Freelance	Bus	TRUE	Diploma	2.34756E+12
+parent#265	OGB/2024/264	Tobi Uba	Female	tobiuba@gmail.com	#70, 001 - #120,000	2	Self Employed	Owned	PhD	Married	Urban	35-44	6	Freelance	Car	TRUE	Masters	2.34438E+12
+parent#266	OGB/2024/265	Olufemi Ogundipe	Male	olufemiogundipe@gmail.com	#120, 001 - #200,000	more than 5	Employed	Rent	Master's Degree	Single	Suburban	25-34	43	Part-time	Bike	TRUE	Masters	2.34334E+12
+parent#267	OGB/2024/266	Ayo Ajayi	Male	ayoajayi@gmail.com	<#30,000	4	Unemployed	Owned	Associate Degree	Single	Suburban	older	14	Full-time	Bus	FALSE	PhD	2.34185E+12
+parent#268	OGB/2024/267	Ngozi Hassan	Male	ngozihassan@gmail.com	>#200,001	0	Employed	Rent	PhD	Divorced	Rural	55-64	0	Freelance	Bike	TRUE	Bachelors	2.34355E+12
+parent#269	OGB/2024/268	Tunde Abubakar	Male	tundeabubakar@gmail.com	>#200,001	0	Self Employed	Rent	PhD	Married	Suburban	older	24	Freelance	Bus	TRUE	PhD	2.34615E+12
+parent#270	OGB/2024/269	Chidera Adeola	Male	chideraadeola@gmail.com	#70, 001 - #120,000	3	Self Employed	Rent	Associate Degree	Single	Suburban	45-54	0	Full-time	Bus	FALSE	PhD	2.34193E+12
+parent#271	OGB/2024/270	Ngozi Dada	Male	ngozidada@gmail.com	#30,001 - #70,000	2	Self Employed	Owned	Master's Degree	Divorced	Rural	25-34	36	Part-time	Bus	FALSE	None	2.34197E+12
+parent#272	OGB/2024/271	Yemi Ojo	Male	yemiojo@gmail.com	#30,001 - #70,000	0	Self Employed	Owned	Bachelor's Degree	Divorced	Suburban	older	3	Freelance	Trekking	TRUE	None	2.34908E+12
+parent#273	OGB/2024/272	Sadiq Uba	Female	sadiquba@gmail.com	#120, 001 - #200,000	3	Unemployed	Owned	Bachelor's Degree	Divorced	Urban	35-44	52	Part-time	Car	TRUE	Bachelors	2.34467E+12
+parent#274	OGB/2024/273	Ifeanyichukwu Abubakar	Female	ifeanyichukwuabubakar@gmail.com	#120, 001 - #200,000	2	Unemployed	Rent	Associate Degree	Divorced	Urban	45-54	24	Freelance	Trekking	TRUE	Bachelors	2.34411E+12
+parent#275	OGB/2024/274	Duru Nwankwo	Female	durunwankwo@gmail.com	#120, 001 - #200,000	5	Unemployed	Owned	Bachelor's Degree	Single	Suburban	older	49	Freelance	Car	TRUE	Masters	2.34511E+12
+parent#276	OGB/2024/275	Adebisi Akanbi	Female	adebisiakanbi@gmail.com	#120, 001 - #200,000	more than 5	Unemployed	Owned	PhD	Divorced	Urban	35-44	36	Freelance	Car	TRUE	Bachelors	2.34746E+12
+parent#277	OGB/2024/276	Duru Obinna	Female	duruobinna@gmail.com	>#200,001	0	Unemployed	Rent	PhD	Widowed	Suburban	55-64	7	Freelance	Car	FALSE	Bachelors	2.34267E+12
+parent#278	OGB/2024/277	Kanyinsola Idowu	Male	kanyinsolaidowu@gmail.com	#70, 001 - #120,000	0	Employed	Owned	Bachelor's Degree	Widowed	Urban	45-54	54	Full-time	Car	TRUE	Masters	2.34483E+12
+parent#279	OGB/2024/278	Doyin Ogunleye	Female	doyinogunleye@gmail.com	#70, 001 - #120,000	2	Employed	Rent	High School	Divorced	Rural	older	14	Freelance	Bike	FALSE	Bachelors	2.34179E+12
+parent#280	OGB/2024/279	Bola Eze	Male	bolaeze@gmail.com	>#200,001	1	Self Employed	Owned	PhD	Single	Urban	25-34	48	Part-time	Bus	TRUE	PhD	2.34452E+12
+parent#281	OGB/2024/280	Temitope Obinna	Female	temitopeobinna@gmail.com	<#30,000	2	Employed	Owned	Associate Degree	Single	Suburban	55-64	40	Freelance	Bus	TRUE	Masters	2.34972E+12
+parent#282	OGB/2024/281	Olamide Ibrahim	Male	olamideibrahim@gmail.com	>#200,001	2	Employed	Owned	Bachelor's Degree	Single	Urban	older	2	Part-time	Bike	FALSE	Bachelors	2.34575E+12
+parent#283	OGB/2024/282	Chinyere Nwodo	Female	chinyerenwodo@gmail.com	#120, 001 - #200,000	more than 5	Employed	Owned	Associate Degree	Divorced	Rural	55-64	36	Part-time	Trekking	TRUE	Diploma	2.34864E+12
+parent#284	OGB/2024/283	Chinyere Okeke	Male	chinyereokeke@gmail.com	#120, 001 - #200,000	more than 5	Unemployed	Owned	Master's Degree	Widowed	Suburban	55-64	34	Part-time	Car	TRUE	PhD	2.34497E+12
+parent#285	OGB/2024/284	Bimbo Akinyemi	Male	bimboakinyemi@gmail.com	#30,001 - #70,000	4	Employed	Owned	Bachelor's Degree	Divorced	Rural	older	4	Freelance	Bike	TRUE	Bachelors	2.34692E+12
+parent#286	OGB/2024/285	Chinonso Ogunbiyi	Female	chinonsoogunbiyi@gmail.com	>#200,001	5	Self Employed	Owned	High School	Single	Rural	55-64	1	Part-time	Bike	FALSE	None	2.34831E+12
+parent#287	OGB/2024/286	Obiageli Ezeani	Male	obiageliezeani@gmail.com	#70, 001 - #120,000	more than 5	Unemployed	Rent	High School	Married	Rural	25-34	41	Part-time	Trekking	TRUE	None	2.34621E+12
+parent#288	OGB/2024/287	Kehinde Okeke	Male	kehindeokeke@gmail.com	#70, 001 - #120,000	4	Self Employed	Rent	PhD	Single	Urban	35-44	52	Part-time	Trekking	TRUE	Diploma	2.3487E+12
+parent#289	OGB/2024/288	Ololade Nwosu	Female	ololadenwosu@gmail.com	<#30,000	1	Self Employed	Rent	Associate Degree	Divorced	Urban	25-34	58	Part-time	Bus	TRUE	None	2.34125E+12
+parent#290	OGB/2024/289	Opeyemi Tajudeen	Male	opeyemitajudeen@gmail.com	#120, 001 - #200,000	0	Employed	Owned	Master's Degree	Single	Urban	older	30	Part-time	Bike	FALSE	Bachelors	2.34223E+12
+parent#291	OGB/2024/290	Zainab Chukwuma	Male	zainabchukwuma@gmail.com	#30,001 - #70,000	5	Unemployed	Owned	Associate Degree	Married	Urban	55-64	59	Part-time	Trekking	FALSE	Diploma	2.34761E+12
+parent#292	OGB/2024/291	Temitope Fadeyi	Female	temitopefadeyi@gmail.com	<#30,000	2	Self Employed	Owned	Master's Degree	Divorced	Suburban	older	36	Freelance	Car	FALSE	None	2.34197E+12
+parent#293	OGB/2024/292	Sadiq Olowu	Female	sadiqolowu@gmail.com	>#200,001	1	Employed	Owned	PhD	Divorced	Urban	25-34	41	Freelance	Bus	TRUE	PhD	2.34735E+12
+parent#294	OGB/2024/293	Nkechi Obinna	Female	nkechiobinna@gmail.com	#70, 001 - #120,000	5	Self Employed	Rent	Bachelor's Degree	Widowed	Urban	45-54	24	Full-time	Trekking	FALSE	Bachelors	2.3446E+12
+parent#295	OGB/2024/294	Temiloluwa Tajudeen	Female	temiloluwatajudeen@gmail.com	>#200,001	1	Employed	Owned	Bachelor's Degree	Widowed	Suburban	55-64	18	Full-time	Bus	TRUE	PhD	2.34352E+12
+parent#296	OGB/2024/295	Chinedu Adebayo	Female	chineduadebayo@gmail.com	#120, 001 - #200,000	3	Unemployed	Rent	PhD	Single	Urban	35-44	43	Freelance	Bus	TRUE	Bachelors	2.34275E+12
+parent#297	OGB/2024/296	Temitope Kalu	Male	temitopekalu@gmail.com	#70, 001 - #120,000	4	Unemployed	Rent	Master's Degree	Divorced	Urban	25-34	39	Full-time	Car	TRUE	PhD	2.34411E+12
+parent#298	OGB/2024/297	Kelechi Nwosu	Male	kelechinwosu@gmail.com	>#200,001	0	Self Employed	Owned	PhD	Single	Suburban	45-54	24	Full-time	Car	TRUE	Masters	2.34504E+12
+parent#299	OGB/2024/298	Oluwaseun Nduka	Female	oluwaseunnduka@gmail.com	>#200,001	2	Unemployed	Owned	High School	Divorced	Suburban	25-34	28	Freelance	Trekking	TRUE	Diploma	2.34317E+12
+parent#300	OGB/2024/299	Obiageli Aiyegbusi	Female	obiageliaiyegbusi@gmail.com	#70, 001 - #120,000	1	Employed	Rent	Bachelor's Degree	Divorced	Suburban	45-54	58	Part-time	Bus	TRUE	Masters	2.34132E+12
+parent#301	OGB/2024/300	Ada Akinyemi	Male	adaakinyemi@gmail.com	#120, 001 - #200,000	0	Self Employed	Owned	High School	Widowed	Rural	older	47	Part-time	Car	FALSE	None	2.34723E+12
+parent#302	OGB/2024/301	Bimbo Akinyemi	Female	bimboakinyemi@gmail.com	<#30,000	3	Self Employed	Owned	Bachelor's Degree	Widowed	Suburban	45-54	15	Part-time	Bike	TRUE	PhD	2.34673E+12
+parent#303	OGB/2024/302	Doyin Nduka	Male	doyinnduka@gmail.com	<#30,000	2	Unemployed	Rent	High School	Single	Urban	25-34	43	Part-time	Bus	TRUE	Bachelors	2.3428E+12
+parent#304	OGB/2024/303	Bukola Ezeani	Male	bukolaezeani@gmail.com	#30,001 - #70,000	1	Self Employed	Owned	Associate Degree	Widowed	Rural	older	31	Part-time	Trekking	FALSE	None	2.34569E+12
+parent#305	OGB/2024/304	Amina Kalu	Male	aminakalu@gmail.com	#70, 001 - #120,000	more than 5	Self Employed	Owned	Master's Degree	Single	Rural	55-64	39	Part-time	Bike	FALSE	Bachelors	2.34501E+12
+parent#306	OGB/2024/305	Doyin Balogun	Female	doyinbalogun@gmail.com	#120, 001 - #200,000	5	Unemployed	Owned	Master's Degree	Widowed	Urban	55-64	16	Part-time	Bus	FALSE	Bachelors	2.34226E+12
+parent#307	OGB/2024/306	Tobi Nduka	Female	tobinduka@gmail.com	#30,001 - #70,000	5	Unemployed	Rent	Bachelor's Degree	Widowed	Suburban	35-44	22	Part-time	Car	FALSE	Masters	2.34421E+12
+parent#308	OGB/2024/307	Obinna Nwankwo	Male	obinnanwankwo@gmail.com	#70, 001 - #120,000	3	Unemployed	Rent	Bachelor's Degree	Married	Suburban	55-64	40	Part-time	Bus	FALSE	Masters	2.34886E+12
+parent#309	OGB/2024/308	Fisayo Akinyemi	Male	fisayoakinyemi@gmail.com	#30,001 - #70,000	3	Unemployed	Owned	High School	Married	Suburban	35-44	29	Full-time	Car	FALSE	PhD	2.34371E+12
+parent#310	OGB/2024/309	Ololade Eze	Female	ololadeeze@gmail.com	<#30,000	3	Employed	Owned	Associate Degree	Divorced	Suburban	55-64	30	Full-time	Car	FALSE	Masters	2.34245E+12
+parent#311	OGB/2024/310	Ada Johnson	Male	adajohnson@gmail.com	#30,001 - #70,000	0	Unemployed	Rent	Bachelor's Degree	Single	Urban	45-54	58	Freelance	Car	FALSE	None	2.34699E+12
+parent#312	OGB/2024/311	Obinna Ojo	Male	obinnaojo@gmail.com	#70, 001 - #120,000	2	Unemployed	Owned	Bachelor's Degree	Divorced	Suburban	older	57	Part-time	Bike	FALSE	None	2.34979E+12
+parent#313	OGB/2024/312	Chidera Nduka	Male	chideranduka@gmail.com	#70, 001 - #120,000	2	Self Employed	Rent	Associate Degree	Single	Rural	45-54	9	Part-time	Car	FALSE	Masters	2.34398E+12
+parent#314	OGB/2024/313	Ijeoma Okeke	Male	ijeomaokeke@gmail.com	#30,001 - #70,000	4	Employed	Owned	Master's Degree	Single	Rural	45-54	29	Full-time	Bus	TRUE	Diploma	2.34585E+12
+parent#315	OGB/2024/314	Ijeoma Obadiah	Male	ijeomaobadiah@gmail.com	#70, 001 - #120,000	2	Employed	Owned	PhD	Single	Suburban	35-44	34	Full-time	Bus	FALSE	PhD	2.34525E+12
+parent#316	OGB/2024/315	Duru Awojobi	Female	duruawojobi@gmail.com	<#30,000	1	Employed	Owned	Associate Degree	Divorced	Rural	older	56	Part-time	Car	TRUE	Bachelors	2.34617E+12
+parent#317	OGB/2024/316	Damilola Nwosu	Male	damilolanwosu@gmail.com	<#30,000	4	Unemployed	Owned	High School	Married	Rural	older	23	Part-time	Car	TRUE	PhD	2.34697E+12
+parent#318	OGB/2024/317	Chinyere Fadeyi	Male	chinyerefadeyi@gmail.com	#70, 001 - #120,000	3	Unemployed	Owned	Master's Degree	Single	Rural	55-64	14	Freelance	Bike	TRUE	Diploma	2.34541E+12
+parent#319	OGB/2024/318	Obinna Awojobi	Male	obinnaawojobi@gmail.com	<#30,000	5	Employed	Owned	PhD	Divorced	Urban	35-44	9	Full-time	Trekking	TRUE	Diploma	2.34296E+12
+parent#320	OGB/2024/319	Bukola Obi	Male	bukolaobi@gmail.com	#70, 001 - #120,000	2	Unemployed	Owned	Master's Degree	Widowed	Suburban	older	18	Part-time	Car	FALSE	Bachelors	2.3442E+12
+parent#321	OGB/2024/320	Ihuoma Adeyemi	Female	ihuomaadeyemi@gmail.com	#30,001 - #70,000	more than 5	Unemployed	Owned	PhD	Widowed	Suburban	older	40	Part-time	Trekking	FALSE	None	2.34623E+12
+parent#322	OGB/2024/321	Kelechi Dada	Male	kelechidada@gmail.com	#120, 001 - #200,000	4	Unemployed	Owned	PhD	Married	Rural	45-54	46	Full-time	Bike	TRUE	Diploma	2.34915E+12
+parent#323	OGB/2024/322	Kehinde Okafor	Male	kehindeokafor@gmail.com	>#200,001	1	Unemployed	Rent	Master's Degree	Single	Rural	25-34	11	Part-time	Trekking	FALSE	Masters	2.34253E+12
+parent#324	OGB/2024/323	Obiageli Uba	Female	obiageliuba@gmail.com	#70, 001 - #120,000	5	Unemployed	Owned	Master's Degree	Single	Urban	older	24	Freelance	Car	FALSE	Masters	2.34881E+12
+parent#325	OGB/2024/324	Funke Ogundipe	Male	funkeogundipe@gmail.com	#30,001 - #70,000	more than 5	Self Employed	Owned	Master's Degree	Divorced	Urban	25-34	16	Full-time	Bike	FALSE	Masters	2.34608E+12
+parent#326	OGB/2024/325	Bukola Nwosu	Male	bukolanwosu@gmail.com	>#200,001	1	Unemployed	Rent	Associate Degree	Married	Urban	45-54	56	Full-time	Bike	FALSE	None	2.34346E+12
+parent#327	OGB/2024/326	Yemi Balogun	Female	yemibalogun@gmail.com	<#30,000	2	Self Employed	Owned	Bachelor's Degree	Widowed	Rural	older	10	Freelance	Trekking	FALSE	Diploma	2.34893E+12
+parent#328	OGB/2024/327	Bimbo Okeke	Male	bimbookeke@gmail.com	#120, 001 - #200,000	1	Unemployed	Rent	Bachelor's Degree	Married	Urban	25-34	23	Full-time	Bike	TRUE	None	2.34488E+12
+parent#329	OGB/2024/328	Sadiq Onyekachi	Female	sadiqonyekachi@gmail.com	#70, 001 - #120,000	3	Self Employed	Owned	PhD	Divorced	Urban	25-34	47	Full-time	Bus	FALSE	Bachelors	2.34367E+12
+parent#330	OGB/2024/329	Nneka Idowu	Male	nnekaidowu@gmail.com	>#200,001	4	Self Employed	Owned	Bachelor's Degree	Married	Urban	older	1	Full-time	Bike	FALSE	Masters	2.34887E+12
+parent#331	OGB/2024/330	Fola Awojobi	Female	folaawojobi@gmail.com	#30,001 - #70,000	1	Employed	Owned	Master's Degree	Divorced	Rural	25-34	27	Full-time	Trekking	TRUE	Diploma	2.34514E+12
+parent#332	OGB/2024/331	Bukola Ogundipe	Female	bukolaogundipe@gmail.com	>#200,001	2	Employed	Rent	Master's Degree	Married	Urban	older	51	Part-time	Trekking	TRUE	None	2.3415E+12
+parent#333	OGB/2024/332	Ngozi Awojobi	Female	ngoziawojobi@gmail.com	#30,001 - #70,000	2	Unemployed	Rent	Bachelor's Degree	Married	Rural	55-64	19	Part-time	Car	TRUE	Diploma	2.34338E+12
+parent#334	OGB/2024/333	Opeyemi Aiyegbusi	Male	opeyemiaiyegbusi@gmail.com	<#30,000	0	Self Employed	Rent	High School	Widowed	Urban	35-44	9	Full-time	Trekking	FALSE	Diploma	2.34953E+12
+parent#335	OGB/2024/334	Obinna Kalu	Female	obinnakalu@gmail.com	>#200,001	2	Unemployed	Rent	Associate Degree	Single	Rural	35-44	2	Part-time	Car	TRUE	PhD	2.34435E+12
+parent#336	OGB/2024/335	Tunde Abiola	Female	tundeabiola@gmail.com	#70, 001 - #120,000	4	Employed	Owned	PhD	Single	Suburban	35-44	29	Part-time	Trekking	FALSE	PhD	2.34677E+12
+parent#337	OGB/2024/336	Chidera Adeyemi	Female	chideraadeyemi@gmail.com	>#200,001	5	Self Employed	Rent	High School	Divorced	Suburban	older	26	Full-time	Bike	TRUE	Masters	2.34631E+12
+parent#338	OGB/2024/337	Bola Okafor	Male	bolaokafor@gmail.com	<#30,000	3	Self Employed	Rent	Master's Degree	Single	Rural	35-44	45	Full-time	Bike	FALSE	Bachelors	2.34327E+12
+parent#339	OGB/2024/338	Temiloluwa Nduka	Male	temiloluwanduka@gmail.com	>#200,001	4	Employed	Rent	Master's Degree	Single	Urban	35-44	56	Part-time	Car	FALSE	Bachelors	2.34275E+12
+parent#340	OGB/2024/339	Kanyinsola Akanbi	Female	kanyinsolaakanbi@gmail.com	#120, 001 - #200,000	1	Unemployed	Owned	Bachelor's Degree	Single	Urban	25-34	34	Part-time	Bike	TRUE	Diploma	2.34191E+12
+parent#341	OGB/2024/340	Nkechi Akinyemi	Female	nkechiakinyemi@gmail.com	#120, 001 - #200,000	3	Employed	Rent	PhD	Widowed	Urban	55-64	54	Full-time	Trekking	TRUE	Masters	2.34807E+12
+parent#342	OGB/2024/341	Fola Suleiman	Male	folasuleiman@gmail.com	#70, 001 - #120,000	more than 5	Unemployed	Owned	Master's Degree	Single	Suburban	25-34	14	Part-time	Trekking	TRUE	Bachelors	2.34153E+12
+parent#343	OGB/2024/342	Kehinde Balogun	Male	kehindebalogun@gmail.com	#70, 001 - #120,000	more than 5	Unemployed	Owned	PhD	Married	Urban	45-54	25	Freelance	Car	TRUE	None	2.34689E+12
+parent#344	OGB/2024/343	Obiageli Olatunde	Male	obiageliolatunde@gmail.com	#30,001 - #70,000	3	Self Employed	Rent	High School	Divorced	Rural	25-34	8	Part-time	Trekking	FALSE	PhD	2.34967E+12
+parent#345	OGB/2024/344	Ihuoma Okwudili	Female	ihuomaokwudili@gmail.com	#30,001 - #70,000	0	Employed	Rent	Associate Degree	Divorced	Rural	25-34	53	Full-time	Bike	FALSE	Bachelors	2.34453E+12
+parent#346	OGB/2024/345	Funke Ojo	Female	funkeojo@gmail.com	<#30,000	1	Unemployed	Rent	PhD	Married	Suburban	55-64	40	Full-time	Trekking	FALSE	PhD	2.34747E+12
+parent#347	OGB/2024/346	Tunde Olaniyi	Male	tundeolaniyi@gmail.com	#120, 001 - #200,000	4	Self Employed	Owned	Associate Degree	Single	Suburban	older	22	Part-time	Car	FALSE	PhD	2.34654E+12
+parent#348	OGB/2024/347	Opeyemi Ibrahim	Female	opeyemiibrahim@gmail.com	#120, 001 - #200,000	3	Employed	Rent	Bachelor's Degree	Married	Rural	55-64	13	Freelance	Trekking	FALSE	Diploma	2.34347E+12
+parent#349	OGB/2024/348	Chinwe Obi	Male	chinweobi@gmail.com	<#30,000	5	Employed	Rent	PhD	Single	Suburban	55-64	60	Freelance	Car	FALSE	Bachelors	2.34502E+12
+parent#350	OGB/2024/349	Chinwe Ajibola	Male	chinweajibola@gmail.com	#70, 001 - #120,000	2	Self Employed	Owned	PhD	Divorced	Rural	55-64	25	Part-time	Trekking	FALSE	PhD	2.34447E+12
+parent#351	OGB/2024/350	Kelechi Balogun	Female	kelechibalogun@gmail.com	#120, 001 - #200,000	4	Unemployed	Rent	Associate Degree	Married	Rural	55-64	26	Part-time	Car	TRUE	Diploma	2.34877E+12
+parent#352	OGB/2024/351	Chika Fadeyi	Male	chikafadeyi@gmail.com	<#30,000	5	Self Employed	Owned	PhD	Single	Rural	35-44	56	Part-time	Trekking	FALSE	Bachelors	2.34812E+12
+parent#353	OGB/2024/352	Sadiq Adesina	Male	sadiqadesina@gmail.com	<#30,000	5	Employed	Rent	Associate Degree	Single	Rural	45-54	26	Full-time	Bike	TRUE	Masters	2.34896E+12
+parent#354	OGB/2024/353	Temitope Nwodo	Male	temitopenwodo@gmail.com	#120, 001 - #200,000	2	Self Employed	Owned	Associate Degree	Single	Rural	35-44	29	Part-time	Car	FALSE	Bachelors	2.34754E+12
+parent#355	OGB/2024/354	Chinonso Ogunyemi	Male	chinonsoogunyemi@gmail.com	#30,001 - #70,000	3	Self Employed	Owned	Bachelor's Degree	Widowed	Suburban	25-34	46	Freelance	Car	TRUE	None	2.34866E+12
+parent#356	OGB/2024/355	Olufemi Dada	Male	olufemidada@gmail.com	>#200,001	2	Employed	Owned	High School	Widowed	Urban	45-54	28	Full-time	Bus	TRUE	None	2.34778E+12
+parent#357	OGB/2024/356	Yemi Nwodo	Male	yeminwodo@gmail.com	#70, 001 - #120,000	3	Self Employed	Rent	High School	Married	Suburban	45-54	28	Part-time	Car	TRUE	None	2.34344E+12
+parent#358	OGB/2024/357	Tunde Abiola	Female	tundeabiola@gmail.com	>#200,001	3	Employed	Rent	Bachelor's Degree	Married	Suburban	35-44	60	Full-time	Trekking	TRUE	Bachelors	2.34593E+12
+parent#359	OGB/2024/358	Kelechi Okafor	Female	kelechiokafor@gmail.com	#120, 001 - #200,000	3	Unemployed	Rent	Associate Degree	Divorced	Suburban	55-64	24	Full-time	Trekking	FALSE	None	2.34343E+12
+parent#360	OGB/2024/359	Obinna Olaniyi	Male	obinnaolaniyi@gmail.com	#30,001 - #70,000	3	Employed	Rent	Bachelor's Degree	Married	Rural	45-54	29	Part-time	Bike	FALSE	Masters	2.34226E+12
+parent#361	OGB/2024/360	Chinedu Idowu	Female	chineduidowu@gmail.com	>#200,001	3	Self Employed	Rent	Master's Degree	Single	Urban	55-64	23	Freelance	Bus	TRUE	Diploma	2.34911E+12
+parent#362	OGB/2024/361	Ihuoma Okwudili	Female	ihuomaokwudili@gmail.com	<#30,000	0	Self Employed	Rent	Master's Degree	Widowed	Rural	25-34	21	Part-time	Trekking	FALSE	Diploma	2.34468E+12
+parent#363	OGB/2024/362	Tunde Balogun	Female	tundebalogun@gmail.com	#70, 001 - #120,000	4	Employed	Owned	Associate Degree	Married	Rural	35-44	20	Freelance	Car	FALSE	None	2.34509E+12
+parent#364	OGB/2024/363	Damilola Ezeani	Female	damilolaezeani@gmail.com	<#30,000	0	Employed	Owned	Master's Degree	Widowed	Urban	45-54	42	Part-time	Bike	FALSE	None	2.34482E+12
+parent#365	OGB/2024/364	Amina Okwudili	Male	aminaokwudili@gmail.com	>#200,001	more than 5	Employed	Rent	High School	Married	Rural	55-64	25	Full-time	Bike	FALSE	PhD	2.34147E+12
+parent#366	OGB/2024/365	Zainab Awojobi	Female	zainabawojobi@gmail.com	<#30,000	3	Unemployed	Rent	Associate Degree	Widowed	Suburban	35-44	8	Full-time	Trekking	TRUE	Bachelors	2.34625E+12
+parent#367	OGB/2024/366	Ifeanyichukwu Nwankwo	Male	ifeanyichukwunwankwo@gmail.com	#120, 001 - #200,000	0	Unemployed	Owned	Associate Degree	Single	Rural	35-44	46	Freelance	Bus	FALSE	None	2.34435E+12
+parent#368	OGB/2024/367	Ekene Ogunyemi	Male	ekeneogunyemi@gmail.com	#70, 001 - #120,000	more than 5	Self Employed	Owned	Associate Degree	Married	Urban	45-54	33	Part-time	Trekking	FALSE	Bachelors	2.34714E+12
+parent#369	OGB/2024/368	Chukwuemeka Hassan	Male	chukwuemekahassan@gmail.com	#30,001 - #70,000	1	Self Employed	Rent	Bachelor's Degree	Single	Urban	25-34	13	Full-time	Car	FALSE	PhD	2.34553E+12
+parent#370	OGB/2024/369	Fola Suleiman	Male	folasuleiman@gmail.com	#120, 001 - #200,000	4	Employed	Rent	Bachelor's Degree	Widowed	Urban	45-54	15	Part-time	Car	TRUE	Masters	2.34769E+12
+parent#371	OGB/2024/370	Chinwe Abubakar	Female	chinweabubakar@gmail.com	<#30,000	2	Employed	Rent	High School	Divorced	Urban	55-64	13	Part-time	Bus	FALSE	PhD	2.34596E+12
+parent#372	OGB/2024/371	Chika Adeola	Male	chikaadeola@gmail.com	>#200,001	more than 5	Self Employed	Rent	Associate Degree	Married	Urban	25-34	45	Full-time	Car	TRUE	None	2.34375E+12
+parent#373	OGB/2024/372	Chika Nwosu	Male	chikanwosu@gmail.com	>#200,001	1	Self Employed	Owned	Associate Degree	Widowed	Rural	older	12	Part-time	Trekking	FALSE	Diploma	2.34483E+12
+parent#374	OGB/2024/373	Tobi Ibrahim	Male	tobiibrahim@gmail.com	<#30,000	4	Unemployed	Rent	Associate Degree	Married	Urban	45-54	36	Freelance	Car	FALSE	PhD	2.34805E+12
+parent#375	OGB/2024/374	Obinna Dada	Female	obinnadada@gmail.com	#70, 001 - #120,000	4	Unemployed	Owned	Master's Degree	Widowed	Urban	25-34	12	Full-time	Bus	TRUE	Bachelors	2.34622E+12
+parent#376	OGB/2024/375	Chidera Nwankwo	Male	chideranwankwo@gmail.com	<#30,000	2	Unemployed	Owned	High School	Single	Urban	older	60	Part-time	Trekking	FALSE	Bachelors	2.34361E+12
+parent#377	OGB/2024/376	Amina Olowu	Female	aminaolowu@gmail.com	<#30,000	1	Employed	Rent	Associate Degree	Widowed	Suburban	25-34	55	Freelance	Bike	TRUE	Bachelors	2.34919E+12
+parent#378	OGB/2024/377	Obiageli Ajibola	Male	obiageliajibola@gmail.com	#120, 001 - #200,000	4	Unemployed	Owned	Associate Degree	Married	Suburban	older	46	Part-time	Trekking	TRUE	PhD	2.34379E+12
+parent#379	OGB/2024/378	Obinna Okwudili	Female	obinnaokwudili@gmail.com	<#30,000	4	Self Employed	Rent	PhD	Divorced	Urban	25-34	42	Freelance	Car	TRUE	Masters	2.34323E+12
+parent#380	OGB/2024/379	Ujunwa Nwosu	Female	ujunwanwosu@gmail.com	#120, 001 - #200,000	4	Employed	Rent	Bachelor's Degree	Widowed	Rural	45-54	50	Freelance	Bike	TRUE	PhD	2.34385E+12
+parent#381	OGB/2024/380	Amina Eze	Male	aminaeze@gmail.com	#70, 001 - #120,000	2	Employed	Rent	High School	Divorced	Suburban	25-34	39	Part-time	Car	FALSE	Diploma	2.34522E+12
+parent#382	OGB/2024/381	Chukwuemeka Olatunde	Female	chukwuemekaolatunde@gmail.com	#70, 001 - #120,000	0	Unemployed	Owned	Master's Degree	Widowed	Suburban	35-44	23	Freelance	Trekking	TRUE	Masters	2.34716E+12
+parent#383	OGB/2024/382	Sadiq Okwudili	Male	sadiqokwudili@gmail.com	#70, 001 - #120,000	more than 5	Unemployed	Rent	Associate Degree	Single	Suburban	25-34	57	Full-time	Bus	TRUE	PhD	2.34972E+12
+parent#384	OGB/2024/383	Yemi Okafor	Male	yemiokafor@gmail.com	#70, 001 - #120,000	more than 5	Self Employed	Rent	Bachelor's Degree	Divorced	Urban	older	29	Freelance	Trekking	TRUE	PhD	2.34437E+12
+parent#385	OGB/2024/384	Nnamdi Ogunleye	Female	nnamdiogunleye@gmail.com	#120, 001 - #200,000	3	Employed	Rent	High School	Widowed	Rural	25-34	35	Full-time	Bike	FALSE	Diploma	2.34857E+12
+parent#386	OGB/2024/385	Yemi Adeola	Female	yemiadeola@gmail.com	<#30,000	1	Unemployed	Rent	Master's Degree	Divorced	Rural	25-34	55	Freelance	Bus	TRUE	Bachelors	2.34592E+12
+parent#387	OGB/2024/386	Oluwaseun Nwosu	Female	oluwaseunnwosu@gmail.com	>#200,001	3	Unemployed	Owned	PhD	Divorced	Suburban	45-54	48	Part-time	Car	FALSE	None	2.34813E+12
+parent#388	OGB/2024/387	Bola Nduka	Male	bolanduka@gmail.com	#70, 001 - #120,000	5	Unemployed	Rent	Master's Degree	Divorced	Suburban	55-64	50	Part-time	Bike	FALSE	PhD	2.34766E+12
+parent#389	OGB/2024/388	Ifeanyichukwu Abubakar	Male	ifeanyichukwuabubakar@gmail.com	#120, 001 - #200,000	0	Employed	Owned	Associate Degree	Single	Urban	45-54	26	Freelance	Bike	FALSE	Bachelors	2.34776E+12
+parent#390	OGB/2024/389	Bukola Chukwuma	Male	bukolachukwuma@gmail.com	>#200,001	3	Self Employed	Owned	Master's Degree	Divorced	Suburban	25-34	23	Part-time	Trekking	FALSE	Diploma	2.34678E+12
+parent#391	OGB/2024/390	Olamide Awojobi	Female	olamideawojobi@gmail.com	<#30,000	more than 5	Employed	Owned	Master's Degree	Divorced	Rural	older	41	Freelance	Car	FALSE	PhD	2.34371E+12
+parent#392	OGB/2024/391	Amina Abubakar	Female	aminaabubakar@gmail.com	#120, 001 - #200,000	more than 5	Self Employed	Rent	Master's Degree	Divorced	Suburban	older	19	Full-time	Bus	FALSE	PhD	2.34193E+12
+parent#393	OGB/2024/392	Funke Obinna	Female	funkeobinna@gmail.com	#70, 001 - #120,000	more than 5	Unemployed	Owned	Associate Degree	Widowed	Rural	45-54	13	Part-time	Car	FALSE	Diploma	2.34771E+12
+parent#394	OGB/2024/393	Olufemi Okafor	Female	olufemiokafor@gmail.com	#120, 001 - #200,000	4	Unemployed	Owned	High School	Married	Suburban	25-34	25	Freelance	Bus	FALSE	Bachelors	2.34877E+12
+parent#395	OGB/2024/394	Ada Ajibola	Female	adaajibola@gmail.com	#120, 001 - #200,000	3	Self Employed	Owned	Master's Degree	Single	Urban	35-44	9	Part-time	Trekking	TRUE	Bachelors	2.34479E+12
+parent#396	OGB/2024/395	Amina Eze	Male	aminaeze@gmail.com	<#30,000	more than 5	Unemployed	Rent	Associate Degree	Widowed	Rural	35-44	30	Full-time	Trekking	TRUE	PhD	2.34429E+12
+parent#397	OGB/2024/396	Ngozi Obi	Male	ngoziobi@gmail.com	#70, 001 - #120,000	0	Self Employed	Rent	Bachelor's Degree	Married	Suburban	older	6	Full-time	Bus	FALSE	PhD	2.34581E+12
+parent#398	OGB/2024/397	Ololade Fadeyi	Female	ololadefadeyi@gmail.com	>#200,001	0	Self Employed	Owned	Associate Degree	Divorced	Rural	55-64	34	Part-time	Car	FALSE	Masters	2.34462E+12
+parent#399	OGB/2024/398	Olamide Abiola	Male	olamideabiola@gmail.com	<#30,000	0	Employed	Owned	Master's Degree	Widowed	Rural	35-44	41	Part-time	Trekking	FALSE	Bachelors	2.34863E+12
+parent#400	OGB/2024/399	Ifeoma Nduka	Female	ifeomanduka@gmail.com	<#30,000	2	Self Employed	Owned	Bachelor's Degree	Widowed	Suburban	older	28	Part-time	Bus	TRUE	Masters	2.34164E+12
+parent#401	OGB/2024/400	Ijeoma Okafor	Female	ijeomaokafor@gmail.com	#30,001 - #70,000	more than 5	Self Employed	Owned	Bachelor's Degree	Single	Suburban	35-44	19	Full-time	Trekking	TRUE	None	2.34862E+12
+parent#402	OGB/2024/401	Chidera Balogun	Female	chiderabalogun@gmail.com	<#30,000	5	Unemployed	Owned	Master's Degree	Single	Urban	45-54	57	Full-time	Car	TRUE	None	2.34486E+12
+parent#403	OGB/2024/402	Yemi Ojo	Female	yemiojo@gmail.com	<#30,000	0	Unemployed	Rent	PhD	Married	Suburban	25-34	53	Part-time	Bike	FALSE	None	2.34467E+12
+parent#404	OGB/2024/403	Fisayo Aiyegbusi	Male	fisayoaiyegbusi@gmail.com	#30,001 - #70,000	2	Self Employed	Rent	Master's Degree	Widowed	Suburban	35-44	49	Freelance	Bus	FALSE	Bachelors	2.346E+12
+parent#405	OGB/2024/404	Nkechi Tajudeen	Female	nkechitajudeen@gmail.com	<#30,000	4	Employed	Owned	PhD	Divorced	Suburban	older	55	Full-time	Bus	FALSE	PhD	2.34423E+12
+parent#406	OGB/2024/405	Obinna Ogunyemi	Female	obinnaogunyemi@gmail.com	#70, 001 - #120,000	0	Self Employed	Owned	High School	Married	Rural	45-54	39	Part-time	Bike	FALSE	Bachelors	2.341E+12
+parent#407	OGB/2024/406	Funke Abubakar	Female	funkeabubakar@gmail.com	#120, 001 - #200,000	more than 5	Self Employed	Owned	Bachelor's Degree	Widowed	Suburban	older	26	Freelance	Trekking	TRUE	Bachelors	2.3475E+12
+parent#408	OGB/2024/407	Nneka Obinna	Female	nnekaobinna@gmail.com	#30,001 - #70,000	2	Unemployed	Owned	Master's Degree	Divorced	Rural	35-44	3	Part-time	Bus	TRUE	PhD	2.34787E+12
+parent#409	OGB/2024/408	Duru Olaniyi	Male	duruolaniyi@gmail.com	#30,001 - #70,000	4	Self Employed	Rent	PhD	Single	Urban	55-64	12	Part-time	Trekking	TRUE	PhD	2.34267E+12
+parent#410	OGB/2024/409	Nnamdi Okeke	Female	nnamdiokeke@gmail.com	<#30,000	3	Self Employed	Owned	High School	Single	Rural	35-44	13	Freelance	Car	TRUE	PhD	2.34529E+12
+parent#411	OGB/2024/410	Tobi Uba	Female	tobiuba@gmail.com	#30,001 - #70,000	5	Self Employed	Rent	Associate Degree	Married	Suburban	older	21	Part-time	Car	FALSE	Bachelors	2.34187E+12
+parent#412	OGB/2024/411	Chukwuemeka Adesina	Female	chukwuemekaadesina@gmail.com	#70, 001 - #120,000	2	Unemployed	Owned	PhD	Single	Rural	35-44	35	Freelance	Bus	FALSE	Masters	2.34994E+12
+parent#413	OGB/2024/412	Sadiq Akanbi	Male	sadiqakanbi@gmail.com	>#200,001	more than 5	Unemployed	Owned	Associate Degree	Single	Suburban	55-64	56	Part-time	Bus	FALSE	None	2.34792E+12
+parent#414	OGB/2024/413	Nkechi Adeola	Male	nkechiadeola@gmail.com	<#30,000	0	Unemployed	Owned	Associate Degree	Divorced	Urban	25-34	10	Freelance	Bus	TRUE	Masters	2.34111E+12
+parent#415	OGB/2024/414	Ngozi Adeola	Male	ngoziadeola@gmail.com	<#30,000	0	Self Employed	Rent	Bachelor's Degree	Divorced	Suburban	older	42	Full-time	Car	TRUE	None	2.34506E+12
+parent#416	OGB/2024/415	Ada Adesina	Male	adaadesina@gmail.com	#70, 001 - #120,000	5	Unemployed	Owned	Bachelor's Degree	Divorced	Suburban	25-34	24	Full-time	Trekking	TRUE	Bachelors	2.34983E+12
+parent#417	OGB/2024/416	Doyin Ogunbiyi	Male	doyinogunbiyi@gmail.com	<#30,000	4	Employed	Rent	Bachelor's Degree	Widowed	Rural	older	59	Part-time	Trekking	FALSE	Masters	2.34808E+12
+parent#418	OGB/2024/417	Adebisi Ezeani	Male	adebisiezeani@gmail.com	<#30,000	5	Self Employed	Rent	PhD	Married	Urban	25-34	33	Freelance	Bike	TRUE	Bachelors	2.34564E+12
+parent#419	OGB/2024/418	Bimbo Ogunbiyi	Female	bimboogunbiyi@gmail.com	<#30,000	4	Employed	Owned	High School	Divorced	Rural	45-54	27	Freelance	Trekking	TRUE	PhD	2.34846E+12
+parent#420	OGB/2024/419	Temitope Ogunbiyi	Female	temitopeogunbiyi@gmail.com	#70, 001 - #120,000	5	Unemployed	Rent	PhD	Single	Urban	45-54	11	Full-time	Car	TRUE	PhD	2.34553E+12
+parent#421	OGB/2024/420	Tobi Adeyemi	Male	tobiadeyemi@gmail.com	<#30,000	5	Employed	Owned	PhD	Single	Urban	25-34	60	Freelance	Bike	FALSE	None	2.34162E+12
+parent#422	OGB/2024/421	Nnamdi Chukwuma	Female	nnamdichukwuma@gmail.com	#70, 001 - #120,000	0	Self Employed	Owned	Master's Degree	Divorced	Urban	45-54	28	Freelance	Car	TRUE	None	2.34843E+12
+parent#423	OGB/2024/422	Ololade Ogunbiyi	Male	ololadeogunbiyi@gmail.com	#70, 001 - #120,000	5	Unemployed	Owned	High School	Single	Suburban	35-44	1	Freelance	Trekking	FALSE	Bachelors	2.3465E+12
+parent#424	OGB/2024/423	Kanyinsola Uba	Male	kanyinsolauba@gmail.com	>#200,001	1	Employed	Rent	Associate Degree	Single	Urban	older	44	Full-time	Trekking	TRUE	None	2.34742E+12
+parent#425	OGB/2024/424	Nnamdi Ajayi	Female	nnamdiajayi@gmail.com	#120, 001 - #200,000	4	Self Employed	Owned	Associate Degree	Widowed	Urban	older	13	Full-time	Car	FALSE	None	2.3465E+12
+parent#426	OGB/2024/425	Ololade Hassan	Female	ololadehassan@gmail.com	#70, 001 - #120,000	1	Unemployed	Owned	Master's Degree	Single	Rural	35-44	24	Part-time	Bike	FALSE	None	2.3417E+12
+parent#427	OGB/2024/426	Bimbo Okwudili	Male	bimbookwudili@gmail.com	#30,001 - #70,000	4	Employed	Rent	Associate Degree	Single	Rural	25-34	36	Freelance	Trekking	TRUE	PhD	2.349E+12
+parent#428	OGB/2024/427	Opeyemi Okafor	Female	opeyemiokafor@gmail.com	#30,001 - #70,000	5	Self Employed	Rent	High School	Single	Suburban	55-64	42	Part-time	Trekking	TRUE	None	2.34388E+12
+parent#429	OGB/2024/428	Ekene Obi	Female	ekeneobi@gmail.com	>#200,001	3	Self Employed	Rent	Associate Degree	Divorced	Urban	35-44	11	Full-time	Car	TRUE	PhD	2.34356E+12
+parent#430	OGB/2024/429	Fisayo Ibrahim	Female	fisayoibrahim@gmail.com	#120, 001 - #200,000	1	Employed	Rent	Bachelor's Degree	Widowed	Suburban	older	17	Part-time	Car	TRUE	Bachelors	2.34248E+12
+parent#431	OGB/2024/430	Nnamdi Adebayo	Female	nnamdiadebayo@gmail.com	<#30,000	1	Unemployed	Rent	Master's Degree	Widowed	Suburban	35-44	47	Freelance	Car	TRUE	Diploma	2.34999E+12
+parent#432	OGB/2024/431	Bukola Abubakar	Male	bukolaabubakar@gmail.com	#30,001 - #70,000	5	Unemployed	Owned	High School	Divorced	Suburban	older	43	Full-time	Bike	FALSE	Bachelors	2.34904E+12
+parent#433	OGB/2024/432	Ujunwa Adeyemi	Male	ujunwaadeyemi@gmail.com	#70, 001 - #120,000	5	Self Employed	Rent	Bachelor's Degree	Single	Suburban	45-54	36	Part-time	Bike	FALSE	PhD	2.34884E+12
+parent#434	OGB/2024/433	Yemi Nduka	Male	yeminduka@gmail.com	#30,001 - #70,000	more than 5	Employed	Rent	Master's Degree	Divorced	Rural	55-64	49	Full-time	Trekking	TRUE	Diploma	2.34926E+12
+parent#435	OGB/2024/434	Ifeoma Ajibola	Male	ifeomaajibola@gmail.com	>#200,001	1	Employed	Rent	Associate Degree	Widowed	Urban	older	9	Freelance	Trekking	TRUE	Bachelors	2.34496E+12
+parent#436	OGB/2024/435	Opeyemi Hassan	Female	opeyemihassan@gmail.com	#120, 001 - #200,000	2	Self Employed	Owned	Master's Degree	Divorced	Rural	55-64	41	Part-time	Bus	FALSE	PhD	2.34522E+12
+parent#437	OGB/2024/436	Zainab Chukwuma	Female	zainabchukwuma@gmail.com	#120, 001 - #200,000	5	Self Employed	Owned	Associate Degree	Divorced	Urban	55-64	25	Full-time	Bus	TRUE	PhD	2.34864E+12
+parent#438	OGB/2024/437	Damilola Adebayo	Male	damilolaadebayo@gmail.com	<#30,000	2	Employed	Rent	Bachelor's Degree	Single	Suburban	25-34	36	Freelance	Car	FALSE	Bachelors	2.34539E+12
+parent#439	OGB/2024/438	Nkechi Aiyegbusi	Female	nkechiaiyegbusi@gmail.com	>#200,001	5	Employed	Rent	Bachelor's Degree	Divorced	Rural	older	50	Part-time	Car	TRUE	Masters	2.34213E+12
+parent#440	OGB/2024/439	Temitope Adebayo	Female	temitopeadebayo@gmail.com	>#200,001	0	Unemployed	Owned	Master's Degree	Divorced	Urban	25-34	51	Part-time	Bus	TRUE	Bachelors	2.34517E+12
+parent#441	OGB/2024/440	Chinwe Nduka	Male	chinwenduka@gmail.com	#30,001 - #70,000	more than 5	Unemployed	Owned	Master's Degree	Divorced	Urban	45-54	12	Freelance	Car	FALSE	Bachelors	2.34185E+12
+parent#442	OGB/2024/441	Ololade Ibrahim	Female	ololadeibrahim@gmail.com	>#200,001	3	Employed	Owned	High School	Divorced	Rural	35-44	9	Freelance	Bus	FALSE	None	2.34295E+12
+parent#443	OGB/2024/442	Fisayo Ojo	Female	fisayoojo@gmail.com	#120, 001 - #200,000	4	Self Employed	Owned	Bachelor's Degree	Widowed	Urban	45-54	26	Part-time	Bus	FALSE	Bachelors	2.3493E+12
+parent#444	OGB/2024/443	Sadiq Obadiah	Female	sadiqobadiah@gmail.com	#120, 001 - #200,000	5	Employed	Owned	Master's Degree	Divorced	Urban	35-44	20	Full-time	Trekking	FALSE	Bachelors	2.345E+12
+parent#445	OGB/2024/444	Olufemi Okwudili	Male	olufemiokwudili@gmail.com	#70, 001 - #120,000	1	Employed	Rent	Associate Degree	Widowed	Urban	35-44	29	Part-time	Bike	FALSE	Diploma	2.34617E+12
+parent#446	OGB/2024/445	Opeyemi Ibrahim	Female	opeyemiibrahim@gmail.com	#70, 001 - #120,000	0	Self Employed	Rent	Associate Degree	Widowed	Rural	55-64	15	Part-time	Bike	FALSE	Bachelors	2.34272E+12
+parent#447	OGB/2024/446	Ujunwa Eze	Male	ujunwaeze@gmail.com	#120, 001 - #200,000	0	Employed	Owned	Master's Degree	Widowed	Rural	35-44	55	Full-time	Trekking	FALSE	Diploma	2.34498E+12
+parent#448	OGB/2024/447	Opeyemi Obi	Female	opeyemiobi@gmail.com	#30,001 - #70,000	0	Self Employed	Owned	PhD	Married	Suburban	55-64	47	Part-time	Car	TRUE	PhD	2.34299E+12
+parent#449	OGB/2024/448	Tunde Tajudeen	Female	tundetajudeen@gmail.com	<#30,000	1	Self Employed	Rent	High School	Widowed	Rural	25-34	8	Freelance	Bus	FALSE	Diploma	2.3449E+12
+parent#450	OGB/2024/449	Tunde Ibrahim	Male	tundeibrahim@gmail.com	#70, 001 - #120,000	4	Employed	Owned	Master's Degree	Married	Rural	45-54	48	Full-time	Trekking	TRUE	None	2.34391E+12
+parent#451	OGB/2024/450	Bola Dada	Male	boladada@gmail.com	#70, 001 - #120,000	0	Employed	Rent	High School	Widowed	Urban	25-34	59	Part-time	Car	TRUE	Bachelors	2.34993E+12
+parent#452	OGB/2024/451	Nkemdilim Ogunbiyi	Female	nkemdilimogunbiyi@gmail.com	<#30,000	4	Employed	Owned	Bachelor's Degree	Divorced	Rural	55-64	31	Full-time	Car	TRUE	PhD	2.3417E+12
+parent#453	OGB/2024/452	Nkechi Awojobi	Male	nkechiawojobi@gmail.com	#70, 001 - #120,000	0	Employed	Owned	High School	Single	Rural	older	20	Part-time	Bus	FALSE	Masters	2.34263E+12
+parent#454	OGB/2024/453	Uche Ogunleye	Male	ucheogunleye@gmail.com	>#200,001	1	Self Employed	Owned	Master's Degree	Widowed	Rural	25-34	39	Full-time	Bus	FALSE	None	2.34281E+12
+parent#455	OGB/2024/454	Jumoke Nwosu	Female	jumokenwosu@gmail.com	#30,001 - #70,000	1	Unemployed	Rent	High School	Divorced	Urban	older	59	Full-time	Bus	FALSE	None	2.34236E+12
+parent#456	OGB/2024/455	Ihuoma Obinna	Male	ihuomaobinna@gmail.com	#30,001 - #70,000	0	Self Employed	Owned	Associate Degree	Married	Rural	25-34	48	Freelance	Bike	FALSE	Masters	2.3473E+12
+parent#457	OGB/2024/456	Tobi Abubakar	Female	tobiabubakar@gmail.com	<#30,000	3	Self Employed	Owned	Bachelor's Degree	Single	Suburban	45-54	39	Full-time	Bus	FALSE	Bachelors	2.34949E+12
+parent#458	OGB/2024/457	Chukwuemeka Balogun	Male	chukwuemekabalogun@gmail.com	<#30,000	0	Employed	Owned	Associate Degree	Single	Rural	older	33	Part-time	Trekking	FALSE	PhD	2.34261E+12
+parent#459	OGB/2024/458	Kehinde Nduka	Female	kehindenduka@gmail.com	#120, 001 - #200,000	more than 5	Unemployed	Rent	PhD	Divorced	Urban	older	47	Part-time	Car	FALSE	Masters	2.34182E+12
+parent#460	OGB/2024/459	Chidera Olowu	Female	chideraolowu@gmail.com	<#30,000	4	Unemployed	Rent	PhD	Divorced	Rural	older	40	Freelance	Bike	TRUE	Masters	2.34292E+12
+parent#461	OGB/2024/460	Chinyere Olaniyi	Female	chinyereolaniyi@gmail.com	#30,001 - #70,000	3	Unemployed	Owned	Master's Degree	Divorced	Rural	older	56	Part-time	Car	FALSE	None	2.34764E+12
+parent#462	OGB/2024/461	Tunde Akinyemi	Male	tundeakinyemi@gmail.com	<#30,000	3	Self Employed	Rent	Master's Degree	Married	Urban	older	2	Freelance	Car	FALSE	Bachelors	2.34661E+12
+parent#463	OGB/2024/462	Jumoke Adeola	Male	jumokeadeola@gmail.com	#30,001 - #70,000	0	Employed	Owned	High School	Divorced	Suburban	55-64	43	Full-time	Car	TRUE	Bachelors	2.34355E+12
+parent#464	OGB/2024/463	Kehinde Okwudili	Male	kehindeokwudili@gmail.com	#120, 001 - #200,000	0	Self Employed	Rent	Master's Degree	Widowed	Urban	older	6	Part-time	Bike	TRUE	Diploma	2.34778E+12
+parent#465	OGB/2024/464	Kelechi Chukwuma	Male	kelechichukwuma@gmail.com	#120, 001 - #200,000	2	Unemployed	Rent	Master's Degree	Widowed	Urban	35-44	50	Part-time	Car	TRUE	Masters	2.34121E+12
+parent#466	OGB/2024/465	Olufemi Aiyegbusi	Female	olufemiaiyegbusi@gmail.com	#30,001 - #70,000	3	Unemployed	Rent	Master's Degree	Divorced	Rural	45-54	4	Part-time	Bike	TRUE	Masters	2.34901E+12
+parent#467	OGB/2024/466	Temitope Idowu	Female	temitopeidowu@gmail.com	#120, 001 - #200,000	3	Employed	Rent	High School	Single	Urban	45-54	5	Part-time	Bus	TRUE	Masters	2.34451E+12
+parent#468	OGB/2024/467	Tunde Nwankwo	Female	tundenwankwo@gmail.com	<#30,000	1	Self Employed	Rent	Bachelor's Degree	Single	Rural	35-44	1	Freelance	Bike	FALSE	None	2.34715E+12
+parent#469	OGB/2024/468	Ifeanyichukwu Uba	Male	ifeanyichukwuuba@gmail.com	#70, 001 - #120,000	more than 5	Self Employed	Rent	Master's Degree	Widowed	Rural	55-64	0	Freelance	Bus	TRUE	Masters	2.34123E+12
+parent#470	OGB/2024/469	Adebisi Onyekachi	Male	adebisionyekachi@gmail.com	#30,001 - #70,000	1	Employed	Owned	Bachelor's Degree	Divorced	Rural	35-44	58	Full-time	Trekking	TRUE	Diploma	2.34294E+12
+parent#471	OGB/2024/470	Bola Balogun	Male	bolabalogun@gmail.com	>#200,001	more than 5	Self Employed	Rent	High School	Married	Urban	45-54	55	Freelance	Bus	FALSE	Bachelors	2.34822E+12
+parent#472	OGB/2024/471	Nneka Olatunde	Male	nnekaolatunde@gmail.com	>#200,001	more than 5	Unemployed	Rent	PhD	Married	Rural	55-64	55	Full-time	Bus	FALSE	None	2.34457E+12
+parent#473	OGB/2024/472	Chinyere Ajayi	Female	chinyereajayi@gmail.com	>#200,001	4	Employed	Owned	Master's Degree	Single	Urban	55-64	3	Freelance	Trekking	FALSE	PhD	2.34701E+12
+parent#474	OGB/2024/473	Adebisi Adeola	Female	adebisiadeola@gmail.com	#70, 001 - #120,000	2	Self Employed	Owned	PhD	Single	Rural	55-64	21	Freelance	Trekking	FALSE	None	2.34329E+12
+parent#475	OGB/2024/474	Oluwaseun Idowu	Male	oluwaseunidowu@gmail.com	#70, 001 - #120,000	more than 5	Self Employed	Rent	Bachelor's Degree	Divorced	Rural	55-64	54	Full-time	Trekking	FALSE	Masters	2.34498E+12
+parent#476	OGB/2024/475	Nnamdi Okafor	Female	nnamdiokafor@gmail.com	#120, 001 - #200,000	4	Self Employed	Owned	Master's Degree	Widowed	Suburban	25-34	5	Part-time	Bus	FALSE	Diploma	2.34918E+12
+parent#477	OGB/2024/476	Nkemdilim Adebayo	Female	nkemdilimadebayo@gmail.com	#30,001 - #70,000	5	Employed	Rent	Bachelor's Degree	Widowed	Urban	55-64	20	Freelance	Car	TRUE	None	2.3432E+12
+parent#478	OGB/2024/477	Chinwe Balogun	Female	chinwebalogun@gmail.com	>#200,001	3	Self Employed	Owned	PhD	Married	Suburban	25-34	59	Full-time	Bus	TRUE	Masters	2.34493E+12
+parent#479	OGB/2024/478	Bola Adeyemi	Male	bolaadeyemi@gmail.com	<#30,000	more than 5	Employed	Owned	Bachelor's Degree	Widowed	Urban	55-64	57	Freelance	Trekking	TRUE	Bachelors	2.34132E+12
+parent#480	OGB/2024/479	Sadiq Tajudeen	Female	sadiqtajudeen@gmail.com	#30,001 - #70,000	5	Employed	Rent	High School	Widowed	Suburban	25-34	22	Full-time	Car	FALSE	Diploma	2.34458E+12
+parent#481	OGB/2024/480	Obinna Obadiah	Male	obinnaobadiah@gmail.com	#30,001 - #70,000	4	Unemployed	Owned	Associate Degree	Single	Suburban	45-54	12	Freelance	Bus	TRUE	Masters	2.34374E+12
+parent#482	OGB/2024/481	Uche Abiola	Male	ucheabiola@gmail.com	#70, 001 - #120,000	0	Unemployed	Rent	Master's Degree	Divorced	Suburban	older	47	Freelance	Bus	FALSE	None	2.34907E+12
+parent#483	OGB/2024/482	Chidera Dada	Male	chideradada@gmail.com	#120, 001 - #200,000	3	Self Employed	Owned	PhD	Widowed	Rural	55-64	9	Part-time	Bus	TRUE	Diploma	2.34455E+12
+parent#484	OGB/2024/483	Ifeanyichukwu Abubakar	Female	ifeanyichukwuabubakar@gmail.com	#120, 001 - #200,000	1	Employed	Owned	Master's Degree	Married	Suburban	older	13	Full-time	Car	FALSE	Masters	2.34613E+12
+parent#485	OGB/2024/484	Ekene Obadiah	Female	ekeneobadiah@gmail.com	>#200,001	5	Employed	Owned	High School	Married	Suburban	55-64	19	Part-time	Trekking	FALSE	None	2.34948E+12
+parent#486	OGB/2024/485	Obiageli Ojo	Female	obiageliojo@gmail.com	>#200,001	0	Self Employed	Owned	Associate Degree	Married	Suburban	45-54	53	Part-time	Car	FALSE	PhD	2.34764E+12
+parent#487	OGB/2024/486	Temiloluwa Akanbi	Male	temiloluwaakanbi@gmail.com	#30,001 - #70,000	1	Self Employed	Owned	High School	Divorced	Suburban	55-64	4	Freelance	Bus	TRUE	PhD	2.3479E+12
+parent#488	OGB/2024/487	Chinedu Nwosu	Male	chinedunwosu@gmail.com	#120, 001 - #200,000	1	Unemployed	Rent	Bachelor's Degree	Divorced	Urban	45-54	23	Full-time	Bus	FALSE	Masters	2.34455E+12
+parent#489	OGB/2024/488	Ayo Abubakar	Female	ayoabubakar@gmail.com	#30,001 - #70,000	more than 5	Self Employed	Rent	PhD	Divorced	Rural	25-34	39	Part-time	Trekking	FALSE	Diploma	2.34332E+12
+parent#490	OGB/2024/489	Fisayo Abubakar	Female	fisayoabubakar@gmail.com	<#30,000	5	Self Employed	Owned	Bachelor's Degree	Widowed	Suburban	older	58	Part-time	Bike	TRUE	None	2.34477E+12
+parent#491	OGB/2024/490	Yemi Ajibola	Female	yemiajibola@gmail.com	#70, 001 - #120,000	5	Unemployed	Rent	Associate Degree	Divorced	Urban	25-34	20	Full-time	Bus	FALSE	Diploma	2.34666E+12
+parent#492	OGB/2024/491	Fola Balogun	Female	folabalogun@gmail.com	#120, 001 - #200,000	1	Self Employed	Owned	PhD	Married	Urban	35-44	37	Full-time	Bike	FALSE	None	2.34542E+12
+parent#493	OGB/2024/492	Temitope Suleiman	Male	temitopesuleiman@gmail.com	#30,001 - #70,000	1	Unemployed	Owned	PhD	Widowed	Suburban	25-34	57	Part-time	Trekking	TRUE	PhD	2.34852E+12
+parent#494	OGB/2024/493	Ijeoma Awojobi	Female	ijeomaawojobi@gmail.com	#70, 001 - #120,000	4	Self Employed	Owned	Master's Degree	Single	Rural	45-54	53	Full-time	Car	FALSE	PhD	2.34539E+12
+parent#495	OGB/2024/494	Olufemi Onyekachi	Female	olufemionyekachi@gmail.com	>#200,001	5	Unemployed	Owned	Master's Degree	Married	Rural	older	28	Full-time	Trekking	TRUE	Masters	2.34714E+12
+parent#496	OGB/2024/495	Aderonke Okeke	Female	aderonkeokeke@gmail.com	<#30,000	5	Self Employed	Rent	High School	Divorced	Rural	older	30	Freelance	Car	FALSE	None	2.34527E+12
+parent#497	OGB/2024/496	Amina Idowu	Male	aminaidowu@gmail.com	#30,001 - #70,000	4	Self Employed	Owned	Master's Degree	Widowed	Suburban	older	21	Freelance	Bike	FALSE	Bachelors	2.34724E+12
+parent#498	OGB/2024/497	Temiloluwa Uba	Male	temiloluwauba@gmail.com	#120, 001 - #200,000	1	Employed	Rent	Bachelor's Degree	Single	Urban	35-44	45	Part-time	Trekking	FALSE	Diploma	2.34401E+12
+parent#499	OGB/2024/498	Fola Kalu	Male	folakalu@gmail.com	<#30,000	3	Employed	Rent	High School	Single	Rural	45-54	11	Full-time	Car	TRUE	PhD	2.34932E+12
+parent#500	OGB/2024/499	Tunde Ojo	Male	tundeojo@gmail.com	<#30,000	3	Unemployed	Owned	High School	Divorced	Rural	25-34	18	Part-time	Bus	FALSE	None	2.3444E+12
