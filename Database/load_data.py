@@ -5,12 +5,12 @@ import csv
 try:
     # Replace these details with your Aiven credentials
     connection = psycopg2.connect(
-        user="avnadmin",              
-        password="AVNS_blUS8t5v_YlvF0J_omz",          
-        host="pg-353bb115-adeitanemmanuel086-380.h.aivencloud.com",              
-        port="26014",                  
-        database="defaultdb",     
-        sslmode="require"                        
+        user="*****",              
+        password="***************",          
+        host="***************",              
+        port="*******",                  
+        database="********",     
+        sslmode="********"                        
     )
     cursor = connection.cursor()
     print("Connected to Aiven PostgreSQL")
