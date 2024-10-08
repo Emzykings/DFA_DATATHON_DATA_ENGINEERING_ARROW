@@ -1,5 +1,5 @@
-Improving  Academic Outcome For Oginigba Comprehensive Secondary School
-Table of Contents
+#Improving  Academic Outcome For Oginigba Comprehensive Secondary School
+##Table of Contents
 - [Project Overview]
 - [Technologies Used]
 - [Project Structure]
@@ -19,6 +19,7 @@ Technologies Used
 - pandas (for data manipulation)
 - psycopg2 (PostgreSQL adapter for Python)
 - CSV (for data storage)
+
 Project Structure
 ├── Database/
 |   ├──Data/                                #Data source csv
