@@ -1,4 +1,5 @@
 OGC Sec. School Data Base Credentials
+
 user="avnadmin",              
 password="AVNS_blUS8t5v_YlvF0J_omz",         
 host="pg-353bb115-adeitanemmanuel086-380.h.aivencloud.com",            
@@ -20,16 +21,13 @@ try:
         database="your_aiven_database_name",
         sslmode="require"
     )
-    
     cursor = connection.cursor()
     cursor.execute("SELECT * FROM students;")  # Example query
     results = cursor.fetchall()
     for row in results:
         print(row)
-
 except Exception as error:
     print(f"Error occurred: {error}")
-
 finally:
     if connection:
         cursor.close()
