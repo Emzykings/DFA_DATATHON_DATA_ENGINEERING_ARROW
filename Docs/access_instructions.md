@@ -1,5 +1,4 @@
-#OGC Sec. School Data Base Credentials
-
+**OGC Sec. School Data Base Credentials**
 user="avnadmin",              
 password="AVNS_blUS8t5v_YlvF0J_omz",         
 host="pg-353bb115-adeitanemmanuel086-380.h.aivencloud.com",            
@@ -11,7 +10,7 @@ sslmode="require"
 !pip install psycopg2
 import psycopg2
 
-'''python
+```python
 try:
     # Replace these with your actual Aiven credentials
     connection = psycopg2.connect(
@@ -33,7 +32,7 @@ finally:
     if connection:
         cursor.close()
         connection.close()
-'''
+```
 
 
 2. Accessing Aiven Cloud PostgreSQL via PGAdmin

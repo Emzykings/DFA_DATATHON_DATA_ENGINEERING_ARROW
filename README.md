@@ -1,4 +1,4 @@
-Improving  Academic Outcome For Oginigba Comprehensive Secondary School
+**Improving  Academic Outcome For Oginigba Comprehensive Secondary School**
 Table of Contents
 - [Project Overview]
 - [Technologies Used]
@@ -21,8 +21,9 @@ Technologies Used
 - CSV (for data storage)
 
 Project Structure
+```bash
 ├── Database/
-|   ├──Data/                                #Data source csv
+|   ├──Data/
 |   |    ├──students.csv
 |   |    ├──teachers.csv
 |   |    ├──parents.csv
@@ -35,18 +36,20 @@ Project Structure
 |   |    ├──attendance_summary.csv
 |   |    ├──aggregated_teacher_evaluation.csv
 |   |
-|   ├── create_tables.py                    # Script to create tables in the database
-|   ├── load_data.py                        # Script to load data from CSV into the database
-|   ├── update_data.py                      # Script to update data in the database
+|   ├── create_tables.py
+|   ├── load_data.py
+|   ├── update_data.py
 ├── docs/
-│   ├── project_documentation.md      # Documentation explaining the project, schema, and process
-│   ├── access_instructions.md         # How to access the database (Python, PGAdmin, Power BI)
+│   ├── project_documentation.md
+│   ├── access_instructions.md
 ├── pipeline/
-│   ├── etl_script.py                  # ETL script for processing and loading data
-│   ├── cron_job.txt                   # Cron job configuration for scheduling
-├── venv/                               # Virtual environment folder
-├── requirements.txt                    # Python dependencies
-├── README.md                           # Project documentation
+│   ├── etl_script.py
+│   ├── cron_job.txt
+├── venv/
+├── requirements.txt
+├── README.md
+```
+
 Setup Instructions
 1. **Clone the repository**:
 ```bash
