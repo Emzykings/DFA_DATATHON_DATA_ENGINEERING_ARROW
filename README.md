@@ -1,5 +1,5 @@
 **Improving  Academic Outcome For Oginigba Comprehensive Secondary School**
-Table of Contents
+**Table of Contents**
 - [Project Overview]
 - [Technologies Used]
 - [Project Structure]
@@ -10,7 +10,8 @@ Table of Contents
 - [Cron Job Configuration]
 - [Documentation]
 - [Contributing]
-Project Overview
+
+**Project Overview**
 This project aims to analyze student performance data from Oginigba Comprehensive Secondary School. The data collected includes student demographics, attendance, academic history, and teacher evaluations. The project involves loading this data into a PostgreSQL database hosted on Aiven and creating a pipeline to update the database nightly.
 Technologies Used
 - Python
@@ -20,10 +21,10 @@ Technologies Used
 - psycopg2 (PostgreSQL adapter for Python)
 - CSV (for data storage)
 
-Project Structure
+**Project Structure**
 ```bash
 ├── Database/
-|   ├──Data/
+|   ├──Data/                                #Data source csv
 |   |    ├──students.csv
 |   |    ├──teachers.csv
 |   |    ├──parents.csv
@@ -36,18 +37,18 @@ Project Structure
 |   |    ├──attendance_summary.csv
 |   |    ├──aggregated_teacher_evaluation.csv
 |   |
-|   ├── create_tables.py
-|   ├── load_data.py
-|   ├── update_data.py
+|   ├── create_tables.py                    # Script to create tables in the database
+|   ├── load_data.py                        # Script to load data from CSV into the database
+|   ├── update_data.py                      # Script to update data in the database
 ├── docs/
-│   ├── project_documentation.md
-│   ├── access_instructions.md
+│   ├── project_documentation.md      # Documentation explaining the project, schema, and process
+│   ├── access_instructions.md         # How to access the database (Python, PGAdmin, Power BI)
 ├── pipeline/
-│   ├── etl_script.py
-│   ├── cron_job.txt
-├── venv/
-├── requirements.txt
-├── README.md
+│   ├── etl_script.py                  # ETL script for processing and loading data
+│   ├── cron_job.txt                   # Cron job configuration for scheduling
+├── venv/                               # Virtual environment folder
+├── requirements.txt                    # Python dependencies
+├── README.md                           # Project documentation
 ```
 
 Setup Instructions
