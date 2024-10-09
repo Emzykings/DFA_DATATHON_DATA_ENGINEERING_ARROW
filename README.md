@@ -14,7 +14,8 @@
 
 **Project Overview**
 This project aims to analyze student performance data from Oginigba Comprehensive Secondary School. The data collected includes student demographics, attendance, academic history, and teacher evaluations. The project involves loading this data into a PostgreSQL database hosted on Aiven and creating a pipeline to update the database nightly.
-Technologies Used
+
+**Technologies Used**
 - Python
 - PostgreSQL
 - Aiven Cloud
