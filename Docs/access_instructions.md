@@ -1,4 +1,5 @@
 **OGC Sec. School Data Base Credentials**
+
 user="avnadmin",              
 password="AVNS_blUS8t5v_YlvF0J_omz",         
 host="pg-353bb115-adeitanemmanuel086-380.h.aivencloud.com",            
@@ -7,10 +8,11 @@ database="defaultdb",
 sslmode="require"
 
 **1. Accessing  Aiven Cloud PostgreSQL via Python**
-!pip install psycopg2
-import psycopg2
 
 ```python
+#pip install psycopg2
+import psycopg2
+
 try:
     # Replace these with your actual Aiven credentials
     connection = psycopg2.connect(
@@ -38,6 +40,7 @@ finally:
 **2. Accessing Aiven Cloud PostgreSQL via PGAdmin**
 PGAdmin needs to connect to your Aiven PostgreSQL instance using the provided credentials.
 
+```bash
 Add a New Server:
 Open PGAdmin and right-click on "Servers" in the Object Browser and select "Create" > "Server".
 Enter Connection Details:
@@ -50,9 +53,11 @@ Password: The Aiven password.
 SSL Configuration:
 Go to the SSL tab and set SSL Mode to require.
 Save the connection, and you should be able to browse the database schema and run queries using PGAdmin.
-
+```
 
 **3. Accessing Aiven Cloud PostgreSQL via Power BI**
+
+```bash
 Steps to Connect Aiven PostgreSQL to Power BI:
 Open Power BI Desktop.
 Connect to PostgreSQL:
@@ -67,3 +72,4 @@ SSL Configuration:
 Power BI will also prompt for SSL configuration. Set SSL mode to require as Aiven requires secure connections.
 Select Tables:
 Once connected, Power BI will show the available tables. The user can now choose the tables and fields for visualization.
+```
